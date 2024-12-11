@@ -2,3 +2,4 @@ jupyter-book
 matplotlib
 numpy
 seaborn>=0.12.0
+sphinx-autobuild

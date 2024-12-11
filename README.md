@@ -10,8 +10,10 @@ Source code for stat 201b.
 - `conda activate 201b`
 - `conda install pymer4 -c ejolly -c conda-forge -c defaults`
 - `pip install -r requirements.txt`
+- `jupyter-book build .`
+- `jupyter-book config sphinx .`
 
 ### Using environment
 - `conda activate 201b`
 - `sphinx-autobuild . _build/html -b html`
-Open `http://127.0.0.1:8000/` in browser
+- Open `http://127.0.0.1:8000/` in browser
