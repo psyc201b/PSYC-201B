@@ -9,6 +9,9 @@ Thumbs.db
 
 # Ignore jupyter-book build artifacts as they'll get auto-built via github actions
 docs/_build
+_build
+notebooks_files
+*.html
 
 #Ignore resources folder except config files and viz model
 resources/
