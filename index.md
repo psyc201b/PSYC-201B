@@ -1,7 +1,7 @@
 # PSYC 201B: Statistical Intuitions for Social Scientists
 
 ```{attention}
-[Background Survey please fill out by **Class 2 - Wed Jan 8th**](https://google.com)    
+[Background Survey please fill out by **Class 2 - Wed Jan 8th**](https://forms.gle/ntZpyavjuT4znEs47)    
 ```
 
 ## About

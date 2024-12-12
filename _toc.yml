@@ -3,8 +3,16 @@
 
 format: jb-book
 root: index
-chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
-- file: cheatsheets
+parts:
+- caption: Lectures
+  chapters:
+    - file: lectures/1
+- caption: Labs
+  chapters:
+    - file: labs/1
+- caption: Resources
+  chapters:
+  - file: pages/readings
+  - file: pages/videos
+  - file: pages/cheatsheets
+  - file: pages/articles

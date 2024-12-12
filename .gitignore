@@ -44,3 +44,6 @@ dev/
 
 # User-specific vscode
 .vscode/bookmarks.json
+
+syllabus.csv
+demos/

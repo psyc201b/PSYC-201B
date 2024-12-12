@@ -17,3 +17,6 @@ Source code for stat 201b.
 - `conda activate 201b`
 - `sphinx-autobuild . _build/html -b html`
 - Open `http://127.0.0.1:8000/` in browser
+
+When editing jupyter-book config files rerun this command before sphinx-autobuild:  
+`jupyter-book build . && jupyter-book config sphinx .`

@@ -1,14 +1,36 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: My sample book
-author: The Jupyter Book Community
-logo: logo.png
+title: Statistical Intuitions for Social Scientists
+author: <a href="https://eshinjolly.com">Eshin Jolly</a>, <a href="https://khuyenle.com">Khuyen Le</a>, and <a href="https://ajinkyajadhav.com">Ajinkya Jadhav</a>
+copyright: "2024"
+logo: ""
+only_build_toc_files: true
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:
-  execute_notebooks: force
+  execute_notebooks: auto
+  allow_errors: false
+
+parse:
+  myst_enable_extensions:
+    - colon_fence
+    - dollarmath
+    - linkify
+    - substitution
+    - tasklist
+  myst_url_schemes: [mailto, http, https]
+  myst_dmath_double_inline: true
+
+html:
+  favicon: images/favicon.ico
+  use_edit_page_button: false
+  use_repository_button: false
+  use_issues_button: false
+  home_page_in_navbar: false
+  extra_navbar: Powered by blood, sweat, and tears!
+  extra_footer: 'If you reference these course materials please cite:  Le, K., Jadhav, A. & Jolly, E. (2025). <em>Statistical Intuitions for Social Scientists.</em> <a href="">DOI</a>'
 
 # Define the name of the latex output file for PDF builds
 latex:
@@ -24,9 +46,3 @@ repository:
   url: https://github.com/executablebooks/jupyter-book  # Online location of your book
   path_to_book: docs  # Optional path to your book, relative to the repository root
   branch: master  # Which branch of the repository should be used when creating links (optional)
-
-# Add GitHub buttons to your book
-# See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
-html:
-  use_issues_button: true
-  use_repository_button: true
