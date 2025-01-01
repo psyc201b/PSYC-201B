@@ -1,4 +1,4 @@
-# Readings
+# Class Readings
 
 ### Russ
 - [Statistical Thinkings for the 21st Century](https://statsthinking21.github.io/statsthinking21-core-site/index.html)

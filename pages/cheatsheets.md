@@ -3,6 +3,7 @@
 ## General
 - [The heart of Unix](https://ericnormand.me/article/the-heart-of-unix)
 - [Library of statistical techniques LOST](https://lost-stats.github.io/)
+- [missing semsester of CS education](https://missing.csail.mit.edu/)
 
 ## Python
 - [About Python](https://executablebooks.github.io/quantecon-mini-example/docs/about_py.html)

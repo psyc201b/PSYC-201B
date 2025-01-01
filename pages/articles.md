@@ -26,6 +26,7 @@
 - [The role of doubt in conceiving research](https://statmodeling.stat.columbia.edu/2023/07/06/the-role-of-doubt-in-conceiving-research-the-capacity-to-be-upset-to-recognize-anomalies-for-what-they-are-and-to-track-them-down-and-figure-out-what-in-our-understanding-is-lacking/)
 - [Understand p-values](https://statmodeling.stat.columbia.edu/2024/12/02/understanding-p-values-different-interpretations-can-be-thought-of-not-as-different-philosophies-but-as-different-forms-of-averaging/) 
 - [bias remaining after adjustments](https://statmodeling.stat.columbia.edu/2024/12/10/bias-remaining-after-adjusting-for-pre-treatment-variables-also-the-challenges-of-learning-through-experimentation/)
+- [how a simple math error sparked a panic](https://statmodeling.stat.columbia.edu/2024/12/13/how-a-simple-math-error-sparked-a-panic-about-black-plastic-kitchen-utensils/)
 
 ## socials
 - [X: fourier transform](https://x.com/abakcus/status/1847848700497813729?s=12)
@@ -35,7 +36,7 @@
 - [X: spectral theory of regression](https://x.com/RylanSchaeffer/status/1845898404326428895)
 
 ## Maybe
-- de Barbaro naturalistic analysis paper
+- [de Barbaro naturalistic analysis paper](https://app.paperpile.com/view/?id=3f095fe1-ce55-48f2-acbb-2461972b1866)
 - Sam and Uri's tics paper
 - flatland fallacy
 - late committement Kriegeskorte

@@ -9,10 +9,18 @@ parts:
     - file: lectures/1
 - caption: Labs
   chapters:
-    - file: labs/1
+    - file: labs/1/overview
+      sections:
+      - file: labs/1/1
+      - file: labs/1/2
+      - file: labs/1/3
+    - file: labs/2/overview
+      sections:
+      - file: labs/2/1
+      - file: labs/2/2
 - caption: Resources
   chapters:
   - file: pages/readings
+  - file: pages/articles
   - file: pages/videos
   - file: pages/cheatsheets
-  - file: pages/articles
