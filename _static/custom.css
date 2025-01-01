@@ -1,4 +1,4 @@
-.bd-container {
+/* .bd-container {
   justify-content: space-between !important;
 }
 @media (min-width: 1200px) {
@@ -6,14 +6,11 @@
     min-width: 60vw !important;
     max-width: 60vw !important;
   }
-  /* .bd-article {
-    width: 60vw !important;
-  } */
   .bd-sidebar-secondary {
-    /* padding-left: 9rem !important; */
+    padding-left: 9rem !important;
   }
 }
 
 .bd-main .bd-content .bd-article-container .bd-article {
   z-index: 50 !important;
-}
+} */

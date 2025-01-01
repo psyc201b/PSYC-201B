@@ -1,4 +1,5 @@
 jupyter-book
+pydata-sphinx-theme==0.15.4
 matplotlib
 numpy
 seaborn>=0.12.0
