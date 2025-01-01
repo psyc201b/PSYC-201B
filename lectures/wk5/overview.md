@@ -1,4 +1,4 @@
-# 1. Introduction
+# (re)-Sampling, uncertainty, inference, & prediction
 
 - Course logistics
 - About the team

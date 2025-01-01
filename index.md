@@ -48,9 +48,11 @@ As computers have become increasingly powerful,  modern statistical practice has
 ```{note}
 *Schedule below subject to change. Check the calendar link above for most up-to-date schedule!*
 ```
-<iframe style="width: 100%; height: 100vh;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTSa0BTDAs6R8Nsf2yOHjShIrqCi9FkGvGZqMwIlyopStkwaaC0k71J2KV46xp01q8ZYpC0Fk-eFE0z/pubhtml?gid=122513192&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false"></iframe>
 
-<!-- ```{csv-table}
+<!-- <iframe style="width: 100%; height: 100vh;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTSa0BTDAs6R8Nsf2yOHjShIrqCi9FkGvGZqMwIlyopStkwaaC0k71J2KV46xp01q8ZYpC0Fk-eFE0z/pubhtml?gid=122513192&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false"></iframe> -->
+
+```{csv-table}
 :file: syllabus.csv
 :header-rows: 1
-``` -->
+:widths: 5, 20, 10, 15, 15, 0, 0
+```
