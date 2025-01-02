@@ -15,6 +15,7 @@ parts:
   chapters:
   - file: resources/intro-jupyterhub
   - file: resources/intro-programming
+  - file: resources/intro-git
   - file: resources/intro-plotting
   - file: resources/intro-numpy
   - file: resources/intro-polars
