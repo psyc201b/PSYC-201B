@@ -2,17 +2,25 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: index
+root: pages/home
 parts:
-- caption: Resources
+- caption: Course Overview
   numbered: false
   chapters:
-  - file: pages/faqs
+  - file: pages/syllabus
+  - file: pages/schedule
   - file: pages/readings
-  - file: pages/articles
-  - file: pages/videos
+- caption: Computing Resources
+  numbered: false
+  chapters:
+  - file: resources/intro-jupyterhub
+  - file: resources/intro-programming
+  - file: resources/intro-plotting
+  - file: resources/intro-numpy
+  - file: resources/intro-polars
   - file: pages/cheatsheets
-- caption: Course Notes
+  - file: resources/glossary
+- caption: Course Topics
   numbered: true
   chapters:
     - file: lectures/wk1/overview
@@ -54,7 +62,7 @@ parts:
       - file: lectures/wk10/2
     - file: lectures/final
     - file: lectures/summary
-- caption: Labs
+- caption: Course Labs
   numbered: true
   chapters:
     - file: labs/1/overview

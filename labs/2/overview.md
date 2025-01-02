@@ -1,9 +1,25 @@
 # Scientific Python, data munging & visualization
 
-Overview text here
+```{topic} Learning Objectives
+- what is scientific Python?
+- how is it different from R/Matlab?
+- plotting in Python
+- statistical visualizations in Python
+```
+
+```{topic} Readings
+- reading 1
+- reading 2
+- reading 3
+```
+
+```{topic} Resources
+- one
+- two
+```
 
 
-## What is Python?
+<!-- What is Python?
 - basics
 - variables
 - logic
@@ -12,16 +28,8 @@ Overview text here
 - notebooks and execution
 
 
-## How does Python differ from R/Matlab?
+How does Python differ from R/Matlab?
 - 0-based indexing
 - object-oriented programming
 - object methods instead of functions
-- domain-general vs domain-specific
-
-## What else can you do with Python?
-- general scripting
-- data munging and management
-- build websites
-- build applications
-- deep-learning and artifical intelligence
-- interactive playground
+- domain-general vs domain-specific -->

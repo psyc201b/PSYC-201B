@@ -1,11 +1,18 @@
 # Introduction - building statistical intuitions
 
-- Course logistics
-- About the team
-- My research background and interest in stats
-- How stats is typically taught and how this course differs
-- What to expect
+```{topic} Learning Objectives
+- goal 1
+- goal 2
+- goal 3
+```
 
-My goal is to make you feel *formbidable* and *empowered* to learn and apply statistics to your own research.
+```{topic} Readings
+- reading 1
+- reading 2
+- reading 3
+```
 
-<embed src="/01_introduction.pdf" width="100%" height="600px" />
+```{topic} Resources
+- one
+- two
+```

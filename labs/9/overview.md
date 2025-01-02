@@ -1,27 +1,18 @@
 # Linear-mixed-models (LMMs)
 
-Overview text here
+```{topic} Learning Objectives
+- goal 1
+- goal 2
+- goal 3
+```
 
+```{topic} Readings
+- reading 1
+- reading 2
+- reading 3
+```
 
-## What is Python?
-- basics
-- variables
-- logic
-- libraries
-- terminology
-- notebooks and execution
-
-
-## How does Python differ from R/Matlab?
-- 0-based indexing
-- object-oriented programming
-- object methods instead of functions
-- domain-general vs domain-specific
-
-## What else can you do with Python?
-- general scripting
-- data munging and management
-- build websites
-- build applications
-- deep-learning and artifical intelligence
-- interactive playground
+```{topic} Resources
+- one
+- two
+```
