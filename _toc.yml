@@ -69,10 +69,10 @@ parts:
       - file: labs/1/1
       - file: labs/1/2
       - file: labs/1/3
-    - file: labs/2/overview
-      sections:
-      - file: labs/2/1
-      - file: labs/2/2
+    # - file: labs/2/overview
+    #   sections:
+    #   - file: labs/2/1
+    #   - file: labs/2/2
     # - file: labs/3/overview
     #   sections:
     #   - file: labs/3/1
