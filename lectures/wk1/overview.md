@@ -1,18 +1,13 @@
 # Introduction - building statistical intuitions
 
 ```{topic} Learning Objectives
-- goal 1
-- goal 2
-- goal 3
+- Introduce course overview, goals, and instructors
+- Learn about you and your goals!
+- Understand what it means to build statistical intuitions
 ```
 
 ```{topic} Readings
-- reading 1
-- reading 2
-- reading 3
 ```
 
 ```{topic} Resources
-- one
-- two
 ```

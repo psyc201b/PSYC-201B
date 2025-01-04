@@ -11,13 +11,24 @@
 **Lab**: Tues 5:00-6:50pm  
 
 ## About
-As computers have become increasingly powerful,  modern statistical practice has changed [cite stat society paper], and we live in an era of endless excitement for  machine-learning and artificial intelligence.  And yet, at the heart of the vast majority statistical analyses are just a handful of key ideas. This course is designed to help you appreciate these ideas by developing your own statistical intuitions. We’ll do this by taking a look at the same basic ideas through multiple lenses: *algebraic* (“math-y”), *geometric* (“visual”), and *algorithmic* (“hacker”).  At the core of the class is a deep understanding of the **General-Linear-Model (GLM)** from which we’ll connect to additional  concepts. We’ll also translate between similar ideas in statistics and machine-learning, while appreciating their “cultural” differences. The core focus of this class is to provide you with a useful framework for computational thinking about analysis and inference, rather than “ritualizing” what types of statistical routines are “correct” for what types of data. This should help you lay a foundation from which you can confidently pursue more advanced topics such as advanced machine/deep-learning, deep-learning, bayesian statistics, and advanced econometrics.  
+As computers have become increasingly powerful modern statistical practice has changed, offering approaches that go far beyond standard methods taught in classic psychological statistics (Efron, Bradley, Hastie, Trevor {cite:year}`Efron2016`). And yet at the heart of these developments are just a handful of key ideas (Gelman, {cite:year}`Gelman2021`). This course is designed to help you interactively develop your own statistical intuitions about these ideas using the Python programming language. At the core of the class is a deep understanding of the General-Linear-Model (GLM) from which we’ll build-up additional concepts (e.g. linear-contrasts, mixed-effects-models) and connect to related ideas in machine-learning (e.g. resampling, cross-validation, regularization).  
 **Requirements**: [PSYC 201A](https://canvas.ucsd.edu/courses/58741) or equivalent  
 **Note**: this course will be taught in the *Python*, but experience in another language (e.g. R, Matlab) is sufficient
 
 ## Goals
-1. lorem
-2. ipsum
+- Build a strong foundation in statistics based on a deep understanding of the GLM
+- Learn computational thinking, rather than statistical ritualizing - understanding the relationship between your analytic approach and what *inferences* are justified from first principles
+- Develop *practical* Python programming, data analysis, and visualization skills
+- Set you up for further coursework in advanced data-science, artificial intelligence, computational social science, or econometrics
 
-## Description
-lorem ipsum
+## Acknowledgments
+
+This course draws inspiration from numerous sources including:
+- [Psych252: Statistical Methods by Tobias Gerstenberg](https://psych252.github.io/)
+- [Statistical Thinking for the 21st Century by Russ Poldrack](https://statsthinking21.github.io/statsthinking21-core-site/index.html)
+- [DartBrains by Luke Chang](https://dartbrains.org/content/intro.html#)
+
+
+---
+```{bibliography}
+```

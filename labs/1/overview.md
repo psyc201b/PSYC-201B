@@ -1,16 +1,13 @@
-# Computing fundamentals & Intro to Python
+# Setup & Intro to Python
 
 ```{topic} Learning Objectives
-- Meet your computer
-- Mastering the terminal
-- Meet Python
-- What can you do with Python?
+- Get setup with UCSD Datahub or local Python environment
+- Meet the Python/Jupyter notebook interface
+- Terminal and git/gihub basics
+- Python basics
 ```
 
 ```{topic} Readings
-- reading 1
-- reading 2
-- reading 3
 ```
 
 ```{topic} Resources

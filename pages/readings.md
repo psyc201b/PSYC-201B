@@ -7,14 +7,12 @@
 **Lab**: Tues 5:00-6:50pm  
 
 ## Week 1
-- a
-- b
+- None
 
 ## Week 2
-- a
-- b
+- TBD
 
-## Week 3
+<!-- ## Week 3
 - a
 - b
 
@@ -43,4 +41,4 @@
 
 ## Week 10
 - a
-- b
+- b -->

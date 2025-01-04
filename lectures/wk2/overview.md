@@ -1,18 +1,14 @@
-# What is data? What is linear algebra?
+# Data & the essence of linear algebra
 
 ```{topic} Learning Objectives
-- goal 1
-- goal 2
-- goal 3
+- Representing different types of data
+- Vectors, matrices, embeddings, and linear operations
+- Norms, distances, covariance, and geometry
 ```
 
-```{topic} Readings
-- reading 1
-- reading 2
-- reading 3
+```{topic} Readings/Videos
+- [The Essence of Linear Algebra by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 ```
 
 ```{topic} Resources
-- one
-- two
 ```
