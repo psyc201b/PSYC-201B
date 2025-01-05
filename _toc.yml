@@ -26,10 +26,10 @@ parts:
       sections:
       - file: lectures/wk1/1
       - file: lectures/wk1/2
-    - file: lectures/wk2/overview
-      sections:
-      - file: lectures/wk2/1
-      - file: lectures/wk2/2
+    # - file: lectures/wk2/overview
+      # sections:
+      # - file: lectures/wk2/1
+      # - file: lectures/wk2/2
     # - file: lectures/wk3/overview
     #   sections:
     #   - file: lectures/wk3/1
@@ -66,9 +66,10 @@ parts:
   chapters:
     - file: labs/1/overview
       sections:
-      - file: labs/1/1
-      - file: labs/1/2
-      - file: labs/1/3
+      - file: labs/1/local_setup
+      - file: labs/1/remote_setup
+      - file: labs/1/git
+      - file: labs/1/python
     # - file: labs/2/overview
     #   sections:
     #   - file: labs/2/1

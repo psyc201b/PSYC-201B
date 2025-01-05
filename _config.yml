@@ -10,10 +10,19 @@ only_build_toc_files: true
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:
-  execute_notebooks: auto
+  execute_notebooks: cache
   allow_errors: false
   exclude_patterns:
     - 'resources/*'
+    - 'lectures/*'
+    - 'labs/2/*'
+    - 'labs/3/*'
+    - 'labs/4/*'
+    - 'labs/5/*'
+    - 'labs/6/*'
+    - 'labs/7/*'
+    - 'labs/8/*'
+    - 'labs/9/*'
 
 parse:
   myst_enable_extensions:

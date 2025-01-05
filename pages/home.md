@@ -33,3 +33,7 @@ This course draws inspiration from numerous sources including:
 ---
 ```{bibliography}
 ```
+
+<!-- Jupyter cache statistics -->
+<!-- ```{nb-exec-table}
+``` -->
