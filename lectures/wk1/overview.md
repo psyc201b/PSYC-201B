@@ -11,3 +11,7 @@
 
 ```{topic} Resources
 ```
+
+```{toggle} Click to reveal
+This is hidden!
+```

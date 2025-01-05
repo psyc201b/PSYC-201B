@@ -1,7 +1,7 @@
 # PSYC 201B: Statistical Intuitions for Social Scientists
 
 ```{attention}
-[Background Survey please fill out by **Class 2 - Wed Jan 8th**](https://forms.gle/ntZpyavjuT4znEs47)    
+[Background Survey please fill out by **Lab 1 - Tues Jan 7th**](https://forms.gle/TJizAo1nEMqR5X3F7)    
 ```
 
 ## When and where? 
@@ -28,6 +28,7 @@ This course draws inspiration from numerous sources including:
 - [Statistical Thinking for the 21st Century by Russ Poldrack](https://statsthinking21.github.io/statsthinking21-core-site/index.html)
 - [DartBrains by Luke Chang](https://dartbrains.org/content/intro.html#)
 
+*Course logo for this year created with the assistance of GenAI*
 
 ---
 ```{bibliography}

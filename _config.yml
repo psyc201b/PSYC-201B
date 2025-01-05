@@ -4,7 +4,7 @@
 title: Statistical Intuitions for Social Scientists
 author: ""
 copyright: ""
-logo: ""
+logo: "logo25.png"
 only_build_toc_files: true
 
 # Force re-execution of notebooks on each build.
@@ -31,8 +31,7 @@ html:
   use_repository_button: false
   use_issues_button: false
   use_multitoc_numbering: false
-  home_page_in_navbar: false
-  extra_navbar: Powered by blood, sweat, and tears!
+  home_page_in_navbar: true
   extra_footer: |
    <p>
    Please cite: Le, K., Jadhav, A. & Jolly, E. (2025). <em>Statistical Intuitions for Social Scientists.</em> <a href="">DOI</a>
@@ -56,6 +55,7 @@ repository:
   branch: master  # Which branch of the repository should be used when creating links (optional)
 
 launch_buttons:
+  jupyterhub_url: "https://datahub.ucsd.edu"
   notebook_interface: "jupyterlab"
 
 sphinx:
