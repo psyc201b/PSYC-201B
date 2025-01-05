@@ -1,0 +1,34 @@
+Wk,Topic,Date,Class/Lab
+1,[Intro - building statistical intuitions](/lectures/wk1/overview),Mon Jan 6th,[Introduction & Logistics](/lectures/wk1/1)
+,,Tues Jan 7th,"[*Lab - computing fundamentals, Python intro*](/labs/1/overview)"
+,,Wed Jan 8th,[What is statistics?](/lectures/wk1/2)
+2,[Data & the essence of linear algebra](/lectures/wk2/overview),Mon Jan 13th,Describing data
+,,Tues Jan 14th,*Lab - data munging + viz*
+,,Wed Jan 15th,Thinking in lines
+3,[The heart of it all: (GLM)](/lectures/wk3/overview),Mon Jan 20th,NO CLASS - MLK day
+,,Tues Jan 21st,"*Lab - arrays, matrices & linear operations*"
+,,Wed Jan 22nd,GLM 1
+4,[More GLM: design matrices](/lectures/wk4/overview),Mon Jan 27th,"GLM 2 (discrete predictors)"
+,,Tues Jan 28th,*Lab - GLM*
+,,Wed Jan 29th,"GLM 3 (discrete outcomes)"
+5,"[(re)-Sampling, uncertainty, inference & prediction](/lectures/wk5/overview)",Mon Feb 3rd,Sampling and uncertainty
+,,Tues Feb 4th,*Lab - contrasts & ANOVA*
+,,Wed Feb 5th,"Bootstrap, permutation, cross-validation"
+6,[Midterm](/lectures/midterm),Mon Feb 10th,*Lab - resampling & cross-validation*
+,,Tues Feb 11th,*Midterm - on your own*
+,,Wed Feb 12th,*Midterm - on your own*
+7,[Dependence among predictors](/lectures/wk7/overview),Mon Feb 17th,NO CLASS - Presidents' day
+,,Tues Feb 18th,Dimensionality reduction & rotation
+,,Wed Feb 19th,*Lab - decomposition*
+8,[Dependence among predictors II](/lectures/wk8/overview),Mon Feb 24th,Regularization and model priors
+,,Tues Feb 25th,*Lab - ridge & lasso*
+,,Wed Feb 26th,FLEX LECTURE SLOT
+9,[Dependence among outcomes](/lectures/wk9/overview),Mon Mar 3rd,NO CLASS - Eshin away
+,,Tues Mar 4th,"Traditions (2-stage, sandwhich, LMMs)"
+,,Wed Mar 5th,*Lab - multi-level models*
+10,[Dependence among outcomes II](/lectures/wk10/overview),Mon Mar 10th,LMMs 2
+,,Tues Mar 11th,FLEX LAB SLOT
+,,Wed Mar 12th,FLEX LECTURE SLOT
+11,[Final](/lectures/final),Mon Mar 17th,*Final - on your own*
+,,Tues Mar 18th,*Final -on your own*
+,,Wed Mar 18th,[Summary & wrap-up]()

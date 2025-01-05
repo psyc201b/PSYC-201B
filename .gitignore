@@ -13,9 +13,6 @@ _build
 notebooks_files
 *.html
 
-#Ignore resources folder except config files and viz model
-resources/
-
 # PytestCache
 .pytest_cache/
 
@@ -33,18 +30,11 @@ __pycache__/
 
 # Distribution / packaging
 env/
-
-
-# Ignore data files for AU viz model building
-data/*
-!data/.gitkeep
-
-# Ignore development notebooks and code
-dev/
-
 # User-specific vscode
 .vscode/bookmarks.json
 
-syllabus.csv
-demos/
+# WIP files
+resources/
 slides/
+demos/
+assets/
