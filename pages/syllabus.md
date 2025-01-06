@@ -12,8 +12,8 @@
 :header-rows: 1
 * - 
   - [Eshin Jolly](https://eshinjolly.com)
-  - [Khuyen Le](https://khuyenle.com)
-  - [Ajinkya Jadhav](https://ajinkyajadhav.com)
+  - [Khuyen Le]()
+  - [Ajinkya Jadhav]()
 * - 
   - ![Eshin Jolly](/images/Eshin.jpg)
   - ![Khuyen Le](/images/Khuyen.jpg)
