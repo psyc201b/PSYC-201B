@@ -62,7 +62,7 @@ parts:
     # - file: lectures/final
     # - file: lectures/summary
 - caption: Course Labs
-  numbered: true
+  numbered: 1
   chapters:
     - file: labs/1/overview
       sections:

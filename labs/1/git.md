@@ -2,7 +2,7 @@
 
 The following slides provide a high-level conceptual overview of git and github using the analogy of a social time-machine.
 
-<embed src="https://www.dropbox.com/scl/fi/rijpa5nimd715kffp349a/git_github_slides.pdf?rlkey=sn8kfza51ogns1qnarmvp7e2z&dl=0" width="100%" height="600px" />
+<embed src="/pdfs/git_github_slides.pdf" width="100%" height="600px" />
 
 ## Quick Reference
 
