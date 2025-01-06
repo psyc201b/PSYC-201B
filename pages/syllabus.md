@@ -12,8 +12,8 @@
 :header-rows: 1
 * - 
   - [Eshin Jolly](https://eshinjolly.com)
-  - [Khuyen Le]()
-  - [Ajinkya Jadhav]()
+  - [Khuyen Le](https://khuyen-le.github.io/)
+  - [Ajinkya Jadhav](https://github.com/jajinkya211)
 * - 
   - ![Eshin Jolly](/images/Eshin.jpg)
   - ![Khuyen Le](/images/Khuyen.jpg)
@@ -49,10 +49,12 @@ Lab sessions will be built upon the concepts taught in lectures with a focus on 
 Approximately every week, you'll receive a problem-set of questions covering that week's topics. Problem-sets will always be due the **Sunday before class at midnight PST**. You should complete and submit problems using the provided jupyter notebook template, containing both code and prose that answers the questions. **You are permitted to work on weekly assignments with other students**. However, you should list the names of all students you worked with.
 
 ### Midterm & Final
-The midterm will be a take-home exam that will consist of questions similar to the weekly problem-sets, **however you must complete the midterm by yourself**. You have a choice of options for the final including:
-- a novel analysis of your own/your lab's data or a publicly available open dataset
+The midterm will be a take-home exam that will consist of questions similar to the weekly problem-sets, **however you must complete the midterm by yourself**.  
+
+You have a choice of options for the final including:
+- a novel analysis of your own/your lab's data 
+- a novel analysis of a publicly available open dataset
 - paired problem-set generation, where you and another student will generate and score problem sets for each other
-- instructor provided final analysis project
 
 More details about the final will be provided later in the term and on this course website.
 
