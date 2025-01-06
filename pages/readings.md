@@ -1,7 +1,7 @@
 # Readings
 
 ## When and where? 
-[Syllabus](/pages/syllabus) | [Schedule](/pages/schedule) | [**Canvas**]() | [**Slack**]() | [**Github**]()  
+[Syllabus](/pages/syllabus) | [Schedule](/pages/schedule) | | [**Slack**](https://join.slack.com/t/psyc201b/shared_invite/zt-2wld531n4-tGqypNfqkftXdWZZ5vzoyA) | [**Github**](https://github.com/psyc201b)  
 **Location**: Mandler 3545 (Crick Conference Room)  
 **Lectures**: Mon+Wed 2:00-3:50pm  
 **Lab**: Tues 5:00-6:50pm  

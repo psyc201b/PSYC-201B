@@ -60,8 +60,8 @@ bibtex_bibfiles:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/executablebooks/jupyter-book  # Online location of your book
-  branch: master  # Which branch of the repository should be used when creating links (optional)
+  url: https://github.com/psyc201b/PSYC-201B  # Online location of your book
+  branch: main  # Which branch of the repository should be used when creating links (optional)
 
 launch_buttons:
   jupyterhub_url: "https://datahub.ucsd.edu"
