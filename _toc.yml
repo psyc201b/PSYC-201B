@@ -18,7 +18,7 @@ parts:
   # - file: resources/intro-numpy
   # - file: resources/intro-polars
   - file: pages/cheatsheets
-  - file: resources/glossary
+  - file: pages/glossary
 - caption: Course Topics
   numbered: true
   chapters:

@@ -75,7 +75,7 @@ Each student will have access to a [UCSD provided Jupyterhub instance](https://d
 Alternatively, your instructors can help you configure your own personal computer using the same Python packages and configurations. This option is ideal for students who have a preferred coding setup (e.g. [VSCode](https://code.visualstudio.com/)), have access to more advanced resources, or simply want to learn more about the scientific Python ecosystem.
 
 ### Technical References
-Under the *Computing Resources* section, we will provide or link to various reference materials, tutorials, notebooks, and guides covering ancillary technical topics and hurdles you may encounter. These include a variety of introductory tutorials, [cheatsheets](/pages/cheatsheets), and with a [glossary of terminology](/resources/glossary) to help you navigate the scientific Python ecosystem.
+Under the *Computing Resources* section, we will provide or link to various reference materials, tutorials, notebooks, and guides covering ancillary technical topics and hurdles you may encounter. These include a variety of introductory tutorials, [cheatsheets](/pages/cheatsheets), and with a [glossary of terminology](/pages/glossary) to help you navigate the scientific Python ecosystem.
 
 ## Grading
 - 30% - *Class participation*: attending, reading, and participating in class discussions & labs
