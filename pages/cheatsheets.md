@@ -3,9 +3,15 @@
 *Helpful resources we'll add to, that you can reference as you're working on course materials*!
 
 ## Basics
-- [Command line cheatsheet](https://www.git-tower.com/blog/media/pages/posts/command-line-cheat-sheet/64337e6bae-1733170994/command-line-cheat-sheet-large01.avif)
-- [Python Basics](https://www.pythoncheatsheet.org/cheatsheet/basics)
-- [Python primer for R users](https://cran.r-project.org/web/packages/reticulate/vignettes/python_primer.html)
+- [Terminal commands cheatsheet](https://www.git-tower.com/blog/media/pages/posts/command-line-cheat-sheet/64337e6bae-1733170994/command-line-cheat-sheet-large01.avif)
+
+## Python Package Management
+- [Conda overview and basic commands](https://nbis-reproducible-research.readthedocs.io/en/course_2104/conda/)
+- [Conda and sharing Python environments for reproducible research](https://rse.shef.ac.uk/conda-environments-for-effective-and-reproducible-research/04-sharing-environments/index.html)
+- [Conda command cheatsheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
+
+<!-- - [Python Basics](https://www.pythoncheatsheet.org/cheatsheet/basics) -->
+<!-- - [Python primer for R users](https://cran.r-project.org/web/packages/reticulate/vignettes/python_primer.html) -->
 
 ## Numpy
 - [Numpy tutorials](https://numpy.org/numpy-tutorials/)

@@ -1,11 +1,13 @@
 # Setup & Intro to Python
 
 ```{topic} Learning Objectives
-- Get setup with UCSD Datahub or local Python environment
-- Meet the Jupyerlab/VSCode interface
-- Git and Github basics
+- Get setup with a local Python development environment
+- Meet the Jupyterlab or VSCode interface
+- Get setup with git and github
+- Meet Python and learn the basics
 - Python basics
 ```
+<!-- - Get setup with UCSD Datahub or local Python environment -->
 
 ```{topic} Readings
 ```
