@@ -28,11 +28,11 @@
   - [asjadhav@ucsd.edu](mailto:asjadhav@ucsd.edu)
 * - Office
   - Mandler 3509
-  - TBD
+  - McGill 2318
   - TBD
 * - Office Hours
   - Wednesdays 4-5pm or by appt
-  - Thursdays 1-2pm
+  - Thursdays 10-11am
   - Tuesdays 1-2pm
 ```
 
