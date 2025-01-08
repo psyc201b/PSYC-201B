@@ -25,7 +25,7 @@ parts:
     - file: lectures/wk1/overview
       sections:
       - file: lectures/wk1/1
-      - file: lectures/wk1/2
+      # - file: lectures/wk1/2
     # - file: lectures/wk2/overview
       # sections:
       # - file: lectures/wk2/1
