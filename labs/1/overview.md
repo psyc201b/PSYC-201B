@@ -11,7 +11,7 @@
 
 ```{topic} Additional Resources
 - [Intro to the terminal](https://blog.dsambrano.com/cli)
-- [The missing semsester of your CS education](https://missing.csail.mit.edu/)
+- [The missing semester of your CS education](https://missing.csail.mit.edu/)
 - [Core Python Docs](https://docs.python.org/3.11/tutorial/index.html)
 - [Learn X in Y minutes Python](https://learnxinyminutes.com/python/)
 ```
