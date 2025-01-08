@@ -88,7 +88,7 @@ VSCode's power lies in its extremely keyboard-centric interface as well as its e
 - [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
 - [Ruff](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff)
 
-Finally you can try creating a new Python notebook and choosing `201b` as the kernel to see if everything is working!
+Finally you can try creating a new Jupyter notebook and choosing `201b` as the kernel to see if everything is working!
 
 ### Optional goodies
 
