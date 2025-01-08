@@ -26,6 +26,10 @@
   - [e3jolly@ucsd.edu](mailto:e3jolly@ucsd.edu)
   - [khuyenle@ucsd.edu](mailto:khuyenle@ucsd.edu)
   - [asjadhav@ucsd.edu](mailto:asjadhav@ucsd.edu)
+* - Slack
+  - `@Eshin`
+  - `@Khuyen Le`
+  - `@Ajinkya`
 * - Office
   - Mandler 3509
   - McGill 2318
