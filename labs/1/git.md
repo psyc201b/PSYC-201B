@@ -1,4 +1,4 @@
-# 2. Git/Github reference
+# 3. (Optional) Git/Github reference
 
 ## (Optional) refresher
 In this course we'll assume that you're at least somewhat familiar with git and github. If not you can toggle the drop-down below for a slide-deck that provides a high-level conceptual overview of version control using the analogy of a "social time-machine."

@@ -68,8 +68,8 @@ parts:
       sections:
       - file: labs/1/local_setup
       # - file: labs/1/remote_setup
-      - file: labs/1/git
       - file: labs/1/python
+      - file: labs/1/git
     # - file: labs/2/overview
     #   sections:
     #   - file: labs/2/1

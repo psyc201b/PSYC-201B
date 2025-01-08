@@ -72,21 +72,50 @@ You should choose between 2 recommended options for your coding setup. Below we'
 
 To install it, make sure you've activated your class environment and run `conda install -c conda-forge jupyterlab`. Once complete, you can launch Jupyterlab by running `jupyter lab` in your terminal. This will always open a new tab in your web-browser with the working directory set to wherever you ran the command from.
 
-From [the interface](https://jupyterlab.readthedocs.io/en/stable/user/interface.html) you can: browse files, create/edit `.py` files (Python scripts), create/edit `.ipynb` files (Jupyter notebooks), and more! Just remember, whenever you create/edit a notebook to work interactively, make sure to select the `201b` kernel from the dropdown menu in the upper right corner of the interface. This will ensure your code is run in the correct environment with the correct packages installed!
+From [the interface](https://jupyterlab.readthedocs.io/en/stable/user/interface.html) you can: browse files, create/edit `.py` files (Python scripts), create/edit `.ipynb` files (Jupyter notebooks), and more.
 
-### Visual Studio Code
+🥳: You're ready to move onto the [next part of the lab](./python.ipynb)!
+
+```{admonition} Quick steps to remember when using Jupyterlab:
+1. Open a terminal and navigate to the folder you want to work in (where your `.ipynb` files are)
+2. Activate your class environment by running `conda activate 201b`
+3. Launch Jupyterlab by running `jupyter lab` in your terminal
+4. Double click any `.ipynb` file in the file list to open it!
+```
+
+### Visual Studio Code[^1]
 
 [VSCode](https://code.visualstudio.com/) is a popular, general-purpose IDE (integrated-development-environment) that runs as a standalone application on your computer. It's a bit more advanced than Jupyterlab, but it's also more powerful and customizable. It's the preferred way that Eshin likes to work with Python as well as other langauges (e.g. Javascript, bash, R, etc). It also has free access to [Github Copilot](https://github.com/features/copilot), a GenAI tool built right into VSCode, as well as tight integration with Github (e.g. changes, commits, push/pulls, etc).
 
-To install VSCode, we'll first install a package in the class environmen that will make it "visible" to VSCode. After activating your class environment run `pip install ipykernel`. Then visit the [VSCode download page](https://code.visualstudio.com/download) and follow the instructions for your computer's OS. Once installed, you can launch VSCode by running `code` in your terminal or opening the application like you would any other app on your computer.
+To install VSCode, we'll first install a package in the class environmen that will make it "visible" to VSCode. After activating your class environment run `pip install ipykernel`. Then visit the [VSCode download page](https://code.visualstudio.com/download) and follow the instructions for your computer's OS. After it's installed you can launch VSCode by opening in just like any other application on your computer.
 
-VSCode's power lies in its extremely keyboard-centric interface as well as its extensive library of extensions. When in doubt just use the **command palette** `cmd+shift+p` (macOS) `ctrl+shift+p` (windows) to search for anything you're trying to do. For now, open it up and search "install extensions" to install the following extensions:
+After launching VSCode bring up the **command palette** by using the keyboard shortcut: `cmd+shift+p` (macOS) `ctrl+shift+p` (windows). The command palette is your best friend for running any types of commands in VSCode. For now search for and select "install code command" in the command palette. This will allow you to launch quickly open VSCode from the terminal using your current working directly by typing `code .` or `code path/to/folder`. 
+
+VSCode's power lies in its extensive library of extensions. Using the links below, we'll give VSCode the ability to understand Python, jupyter notebook files (`.ipynb`), and give us some nice auto-complete and error-checking functionality. Simply click each link below to open the extensions website select the bing green "Install" button. Clicking it will automatically point VSCode to the extension and give you the option to install it:
 - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 - [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 - [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
 - [Ruff](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff)
 
-Finally you can try creating a new Python notebook and choosing `201b` as the kernel to see if everything is working!
+Finally let's make sure everything is working by creating a new blank notebook and choosing the Python environment/kernel we created. Use VSCode's command palette to search for and select "new jupyter notebook". This will create a new blank notebook in the folder you're currently in called something like `Untitled.ipynb`. In the top right of the notebook, click on the "choose kernel" button > Python environments > and choose `201b`. If that worked you can close this notebook without saving it!
+
+🥳: You're ready to move onto the [next part of the lab](./python.ipynb)!
+
+```{admonition} Quick steps to remember when using VSCode:
+1. Open your terminal and navigate to the folder you want to work in (where your `.ipynb` files are)
+2. Type `code .` to open VSCode with that folder loaded
+4. Double click any `.ipynb` file in the file list to open it
+5. Use the dropdown menu in the top right to select `201b` as the kernel, if it's already selected
+```
+[^1]: *Not [this extraordinary VS Code](https://highpointperformance.com/portfolio-items/vs-code-red/); thanks Rose!*
+
+### VSCode vs Jupyterlab
+```{figure} ./vscode_vs_jupyterlab.png
+
+In case you're moving between both setups, this visual might be helpful to remind you of how they're configured. Inside the "box" that is your computer's file system, we installed Anaconda/Miniconda, which gives us the ability to create more "boxes" or isolated Python environments. Within one of these boxes (conda environment called `201b`) we installed jupyterlab, so once we launch it, it's runnning from *within* the `201b` environment, thus using that version of Python and all the packages we installed.  
+
+VSCode has the ability to "see" the boxes (environments) that Anaconda creates, but can happily move between environments if you point it to a different one. That's why whenever we open a `.ipynb` file in VSCode we want to make sure to "select the kernel" which is telling VSCode what conda environment `201b` to use that particular notebook file!
+```
 
 ### Optional goodies
 
