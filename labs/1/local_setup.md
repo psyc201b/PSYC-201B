@@ -8,7 +8,7 @@ If you're unable to get your computer configured by the end of Lab 1, or the end
 
 ## 1. Initial setup
 
-First make sure you already have an existing [GitHub account](https://github.com/). Then after logging in you'll want to **create a [passkey](https://docs.github.com/en/authentication/authenticating-with-a-passkey/managing-your-passkeys#adding-a-passkey-to-your-account) for your aaccount.** This will allow you to login into your account from your computer's terminal without entering a password.
+First make sure you already have an existing [GitHub account](https://github.com/). Then after logging in you'll want to **create a [passkey](https://docs.github.com/en/authentication/authenticating-with-a-passkey/managing-your-passkeys#adding-a-passkey-to-your-account) for your account.** This will allow you to login into your account from your computer's terminal without entering a password.
 
 Next we'll want to make sure that `git` is installed and setup on your computer. Pick the instructions based on your computer's operating system and open up a Terminal (macOS) or Command Prompt/PowerShell (windows):
 
