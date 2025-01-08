@@ -15,6 +15,7 @@ execute:
   exclude_patterns:
     - 'resources/*'
     - 'lectures/*'
+    - 'labs/1/*'
     - 'labs/2/*'
     - 'labs/3/*'
     - 'labs/4/*'
