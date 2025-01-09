@@ -36,7 +36,7 @@
   - TBD
 * - Office Hours
   - Wednesdays 4-5pm or by appt
-  - Thursdays 10-11am
+  - Thursdays 9-10am
   - Tuesdays 1-2pm
 ```
 
