@@ -1,14 +1,24 @@
-# Data & the essence of linear algebra
+# Data, Sampling, and Simulation
 
 ```{topic} Learning Objectives
-- Representing different types of data
-- Vectors, matrices, embeddings, and linear operations
-- Norms, distances, covariance, and geometry
+- Review of Python fundamentals
+- Describing and Visualizing Data
+  - Introduction to `numpy`
+  - Introduction to `matplotlib`
+- Intution building through simulation
+- Working with structured data
+  - Introduction to `pandas`
+  - Introduction to `seaborn`
 ```
 
 ```{topic} Readings/Videos
-- [The Essence of Linear Algebra by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- Dating Dilemma paper
+- Dating dilemma blog 1, blog 2
 ```
 
 ```{topic} Resources
+- [Numpy fundamentals]
+- [Matplotlib fundamentals]
+- [Pandas fundamentals]
+- [Seaborn fundamentals]
 ```

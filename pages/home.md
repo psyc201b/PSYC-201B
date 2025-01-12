@@ -27,6 +27,7 @@ This course draws inspiration from numerous sources including:
 - [Psych252: Statistical Methods by Tobias Gerstenberg](https://psych252.github.io/)
 - [Statistical Thinking for the 21st Century by Russ Poldrack](https://statsthinking21.github.io/statsthinking21-core-site/index.html)
 - [DartBrains by Luke Chang](https://dartbrains.org/content/intro.html#)
+- [Foundations of Data Science @ UC Berkley](https://www.data8.org/fa24/)
 
 *Course logo for this year created with the assistance of GenAI*
 

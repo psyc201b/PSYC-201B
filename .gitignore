@@ -39,3 +39,4 @@ demos/
 *.key
 assets/pdfs/*
 !assets/pdfs/git_github_slides.pdf
+*.slides.*

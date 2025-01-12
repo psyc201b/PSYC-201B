@@ -20,15 +20,17 @@ parts:
   - file: pages/cheatsheets
   - file: pages/glossary
 - caption: Course Topics
-  numbered: true
+  numbered: false
   chapters:
     - file: lectures/wk1/overview
       sections:
       - file: lectures/wk1/1
       - file: lectures/wk1/2
-    # - file: lectures/wk2/overview
-      # sections:
-      # - file: lectures/wk2/1
+    - file: lectures/wk2/overview
+      sections:
+      - file: lectures/wk2/Python_Fundamentals_Review
+      - file: lectures/wk2/dating_dilemma
+      - file: lectures/wk2/chat
       # - file: lectures/wk2/2
     # - file: lectures/wk3/overview
     #   sections:
