@@ -1,9 +1,5 @@
 # PSYC 201B: Statistical Intuitions for Social Scientists
 
-```{attention}
-[Background Survey please fill out by **Lab 1 - Tues Jan 7th**](https://forms.gle/TJizAo1nEMqR5X3F7)    
-```
-
 ## When and where? 
 [Syllabus](/pages/syllabus) | [Schedule](/pages/schedule) | | [**Slack**](https://join.slack.com/t/psyc201b/shared_invite/zt-2wld531n4-tGqypNfqkftXdWZZ5vzoyA) | [**Github**](https://github.com/psyc201b)  
 **Location**: Mandler 3545 (Crick Conference Room)  

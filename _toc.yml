@@ -13,11 +13,8 @@ parts:
 - caption: Computing Resources
   numbered: false
   chapters:
-  # - file: resources/intro-git
-  # - file: resources/intro-plotting
-  # - file: resources/intro-numpy
-  # - file: resources/intro-polars
   - file: pages/cheatsheets
+  - file: pages/github_classroom
   - file: pages/glossary
 - caption: Course Topics
   numbered: false
@@ -28,79 +25,19 @@ parts:
       - file: lectures/wk1/2
     - file: lectures/wk2/overview
       sections:
-      - file: lectures/wk2/Python_Fundamentals_Review
-      - file: lectures/wk2/dating_dilemma
-      - file: lectures/wk2/chat
-      # - file: lectures/wk2/2
-    # - file: lectures/wk3/overview
-    #   sections:
-    #   - file: lectures/wk3/1
-    #   - file: lectures/wk3/2
-    # - file: lectures/wk4/overview
-    #   sections:
-    #   - file: lectures/wk4/1
-    #   - file: lectures/wk4/2
-    # - file: lectures/wk5/overview
-    #   sections:
-    #   - file: lectures/wk5/1
-    #   - file: lectures/wk5/2
-    # - file: lectures/midterm
-    # - file: lectures/wk7/overview
-    #   sections:
-    #   - file: lectures/wk7/1
-    #   - file: lectures/wk7/2
-    # - file: lectures/wk8/overview
-    #   sections:
-    #   - file: lectures/wk8/1
-    #   - file: lectures/wk8/2
-    # - file: lectures/wk9/overview
-    #   sections:
-    #   - file: lectures/wk9/1
-    #   - file: lectures/wk9/2
-    # - file: lectures/wk10/overview
-    #   sections:
-    #   - file: lectures/wk10/1
-    #   - file: lectures/wk10/2
-    # - file: lectures/final
-    # - file: lectures/summary
+      - file: lectures/wk2/01_Python_Fundamentals_Review
+      # - file: lectures/wk2/Sampling_Describing
+      # - file: lectures/wk2/dating_dilemma
 - caption: Course Labs
   numbered: 1
   chapters:
     - file: labs/1/overview
       sections:
       - file: labs/1/local_setup
-      # - file: labs/1/remote_setup
       - file: labs/1/python
       - file: labs/1/git
-    # - file: labs/2/overview
-    #   sections:
-    #   - file: labs/2/1
-    #   - file: labs/2/2
-    # - file: labs/3/overview
-    #   sections:
-    #   - file: labs/3/1
-    #   - file: labs/3/2
-    # - file: labs/4/overview
-    #   sections:
-    #   - file: labs/4/1
-    #   - file: labs/4/2
-    # - file: labs/5/overview
-    #   sections:
-    #   - file: labs/5/1
-    #   - file: labs/5/2
-    # - file: labs/6/overview
-    #   sections:
-    #   - file: labs/6/1
-    #   - file: labs/6/2
-    # - file: labs/7/overview
-    #   sections:
-    #   - file: labs/7/1
-    #   - file: labs/7/2
-    # - file: labs/8/overview
-    #   sections:
-    #   - file: labs/8/1
-    #   - file: labs/8/2
-    # - file: labs/9/overview
-    #   sections:
-    #   - file: labs/9/1
-    #   - file: labs/9/2
+    - file: labs/2/overview
+      # sections:
+      # - file: labs/2/1_dating_dilemma
+      # - file: labs/2/2_dating_dilemma
+      # - file: labs2/3_tidydata

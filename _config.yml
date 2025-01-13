@@ -32,6 +32,7 @@ parse:
     - linkify
     - substitution
     - tasklist
+    - html_image
   myst_url_schemes: [mailto, http, https]
   myst_dmath_double_inline: true
 
