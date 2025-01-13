@@ -26,6 +26,7 @@ parts:
     - file: lectures/wk2/overview
       sections:
       - file: lectures/wk2/01_Python_Fundamentals_Review
+      - file: lectures/wk2/02_Debugging
       # - file: lectures/wk2/Sampling_Describing
       # - file: lectures/wk2/dating_dilemma
 - caption: Course Labs
