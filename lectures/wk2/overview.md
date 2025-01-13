@@ -17,7 +17,7 @@ Due: **Mon, Jan 20** (before class)
 - Overview of getting and submitting assignments with [Github Classroom](/pages/github_classroom)
 - Review of Python fundamentals  
 - Quick guide to debugging
-- Sampling and Descriptive Statistics
+- Aggregation, Sampling, and Descriptive Statistics
   - intro to `numpy` and `matplotlib`
 - Pondering the Dating Dilemma
 ```
