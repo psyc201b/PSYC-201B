@@ -13,7 +13,7 @@ Due: **Mon, Jan 20** (before class)
 ```
 
 ## Weekly Plan
-```{topic} [📚 Monday Jan 13th]() 
+```{topic} [📚 Monday Jan 13th](https://classroom.github.com/a/4Es8Effw) 
 - Overview of getting and submitting assignments with [Github Classroom](/pages/github_classroom)
 - Review of Python fundamentals  
 - Quick guide to debugging
