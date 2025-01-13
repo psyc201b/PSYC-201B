@@ -17,35 +17,30 @@ Due: **Mon, Jan 20** (before class)
 - Overview of getting and submitting assignments with [Github Classroom](/pages/github_classroom)
 - Review of Python fundamentals  
 - Quick guide to debugging
-- Aggregation, Sampling, and Descriptive Statistics
-  - intro to `numpy` and `matplotlib`
-- Pondering the Dating Dilemma
+- Summarizing data & CLT
+- Measures of Central Tendency
 ```
 
 ```{topic} Tuesday Jan 14th (LAB)
-- Simulating strategies in the Dating Dilemma
-  - More `numpy` and `matplotlib`
-- Introducing the OKCupid DataSet
+- `numpy` and `matplotlib` fundamentals
+- Simulating strategies Dating Dilemma
 ```
 
 ```{topic} Wednesday Jan 15th 
 - Exploratory Data Analysis
-  - intro to `pandas` and `seaborn`
-- Exploring The OkCupid DataSet
-  - Tidy-data and statistical visualization
+- Tidy-data and statistical visualization
+- Intro to `pandas` and `seaborn`
+- Introducing the OKCupid DataSet
 - HW 1 Introduction
 ```
 
 ## Resources
 ```{topic} Readings
-- TBD
+*Will be updated*
 <!-- - Dating Dilemma paper -->
 <!-- - Dating dilemma blog 1, blog 2 -->
 ```
 
 ```{topic} Python References
-- [Numpy fundamentals]
-- [Matplotlib fundamentals]
-- [Pandas fundamentals]
-- [Seaborn fundamentals]
+*Will be updated*
 ```
