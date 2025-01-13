@@ -33,10 +33,10 @@
 * - Office
   - Mandler 3509
   - McGill 2318
-  - TBD
+  - Mandler 1503
 * - Office Hours
   - Wednesdays 4-5pm or by appt
-  - Thursdays 10-11am
+  - Thursdays 9-10am
   - Tuesdays 1-2pm
 ```
 
