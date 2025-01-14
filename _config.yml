@@ -42,7 +42,7 @@ html:
   use_repository_button: false
   use_issues_button: false
   use_multitoc_numbering: false
-  home_page_in_navbar: true
+  home_page_in_navbar: false
   extra_footer: |
    <p>
    Please cite: Le, K., Jadhav, A. & Jolly, E. (2025). <em>Statistical Intuitions for Social Scientists.</em> <a href="">DOI</a>

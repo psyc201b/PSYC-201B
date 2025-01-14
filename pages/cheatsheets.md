@@ -1,4 +1,4 @@
-# Cheatsheets
+# Coding Cheatsheets
 
 *Helpful resources we'll add to, that you can reference as you're working on course materials*!
 

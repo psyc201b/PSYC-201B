@@ -9,12 +9,12 @@ parts:
   chapters:
   - file: pages/syllabus
   - file: pages/schedule
-  - file: pages/readings
+  - file: pages/github_classroom
 - caption: Computing Resources
   numbered: false
   chapters:
+  - file: pages/git
   - file: pages/cheatsheets
-  - file: pages/github_classroom
   - file: pages/glossary
 - caption: Course Topics
   numbered: false
@@ -37,9 +37,22 @@ parts:
       sections:
       - file: labs/1/local_setup
       - file: labs/1/python
-      - file: labs/1/git
-    - file: labs/2/overview
+  #  - file: labs/2/overview
       # sections:
       # - file: labs/2/1_dating_dilemma
       # - file: labs/2/2_dating_dilemma
       # - file: labs2/3_tidydata
+# - caption: Week 2
+#   numbered: 1
+#   chapters:
+#     - file: lectures/wk2/overview
+#       sections:
+#       - file: lectures/wk2/01_Python_Fundamentals_Review
+#       - file: lectures/wk2/02_Debugging
+#       - file: lectures/wk2/03_CLT
+#       - file: lectures/wk2/04_central_tendency
+#     - file: labs/2/overview
+#       sections:
+#       - file: labs/2/1_dating_dilemma
+#       - file: labs/2/2_dating_dilemma
+#       # - file: labs2/3_tidydata

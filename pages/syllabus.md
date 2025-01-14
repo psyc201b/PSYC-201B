@@ -55,7 +55,7 @@ As computers have become increasingly powerful modern statistical practice has c
   - Tuesdays 1-2pm
 ```
 
-## Class Format
+## How we'll learn
 
 ### Github Classroom
 We will be using **Github Classroom** to manage all lectures, labs, HWs, exams, and projects. Each week, we'll update the course website with links (prefixed with: 📚) to new Github Classroom assignments that contain all the materials you'll need for that day's lecture, labs, or HWs. **At the start of class/lab, or when a HW problem-set is made available, you should accept assignments and `git clone` them to your local computer to work interactively**.
@@ -67,15 +67,19 @@ We've made [instructions and a detailed tutorial video](/pages/github_classroom.
 ### Course Website
 When in doubt, the course website should be the first place you look for any logistical information! We'll be updating it regularly week-by-week with new **Course Topics** and **Course Labs**. You'll be able to *view* newly posted materials materials for each week on the website, but **you should be using the Github Classroom to submit your work to receive credit**. 
 
-### Weekly Materials
+#### Weekly Course Topics
 
-You can find links to each week's materials by linking on that week from the left sidebar. Each week has an overview page with links to:
+You can find links to each week's materials by linking on that week under the *Course Topics* section from the left sidebar. Each week has an overview page with links to:
 
 - Our plan for that week's topics (subject to change)
 - 📚 links to Github Classroom assignments for that week's lecture & labs
 - A notice at the top of the page with any HWs, links, and due dates
 - Any required or suggested readings
 - Additional helpful technical resources for that week's topics
+
+#### Weekly Lab Materials
+
+In addition, we'll be adding materials for each week's lab under the *Course Labs* section. Like weekly course topics, we'll create Github Classroom assignments for each lab and link to them from the weekly lab overview page.
 
 ### Communication
 
@@ -128,7 +132,7 @@ More details about the final will be provided later in the term on the course we
 
 ### Grading
 
-**Mastery based grading.** We’re interested in grading you on your ability to achieve the skill sets that are taught in this course. Except for the mid-term and final, **you're allow to resubmit any Github Classroom Assignment more than once, if you feel like you could do better, or if you want to incorporate instructor feedback**. We'll grade you based *partially* on your accurate completion of the assignment, but *mostly* on your ability to demonstrate:
+**Mastery based grading.** We’re interested in grading you on your ability to achieve the skill sets that are taught in this course. Except for the mid-term and final, **you're allow to resubmit any Github Classroom assignment more than once, if you feel like you could do better, or if you want to incorporate instructor feedback**. We'll grade you based *partially* on your accurate completion of the assignment, but *mostly* on your ability to demonstrate:
 
 - You attempted the assignment in good-faith (lecture, lab, or HW notebooks)
 - You made effort to clearly document and explain your thought process, reasoning, code, and where/why you got stuck if you did

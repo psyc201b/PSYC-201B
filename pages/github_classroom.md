@@ -1,6 +1,6 @@
-# Using Github Classroom
+# Assignments (Github Classroom)
 
-We'll be using Github Classroom to share all resources for class. This will allow you to retrieve and work on class, lab, and HW notebooks on your local computer **without having to click the download** button from the website. 
+We'll be using Github Classroom to share all resources for class. This will allow you to retrieve and work on class, lab, and HW notebooks on your local computer **without having to click the download** button from the course website. At the same time this will allow your instructors to review your work, provide feedback, and/or have a private discussion with you while referencing questions/issues in your code directly.
 
   ## Quick steps
 
