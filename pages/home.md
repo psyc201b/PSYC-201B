@@ -1,7 +1,7 @@
 # PSYC 201B: Statistical Intuitions for Social Scientists
 
 ## When and where? 
-[Syllabus](/pages/syllabus) | [Schedule](/pages/schedule) | | [**Slack**](https://join.slack.com/t/psyc201b/shared_invite/zt-2wld531n4-tGqypNfqkftXdWZZ5vzoyA) | [**Github**](https://github.com/psyc201b)  
+**Communication**: [**Slack**](https://psyc201b.slack.com/) | [**Github**](https://github.com/psyc201b)  
 **Location**: Mandler 3545 (Crick Conference Room)  
 **Lectures**: Mon+Wed 2:00-3:50pm  
 **Lab**: Tues 5:00-6:50pm  

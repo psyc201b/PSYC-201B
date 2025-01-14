@@ -1,10 +1,21 @@
 # Syllabus
 
 ## When and where? 
-[Syllabus](/pages/syllabus) | [Schedule](/pages/schedule) | | [**Slack**](https://join.slack.com/t/psyc201b/shared_invite/zt-2wld531n4-tGqypNfqkftXdWZZ5vzoyA) | [**Github**](https://github.com/psyc201b)  
+**Communication**: [**Slack**](https://psyc201b.slack.com/) | [**Github**](https://github.com/psyc201b)  
 **Location**: Mandler 3545 (Crick Conference Room)  
 **Lectures**: Mon+Wed 2:00-3:50pm  
 **Lab**: Tues 5:00-6:50pm  
+
+<!-- ## About
+As computers have become increasingly powerful modern statistical practice has changed, offering approaches that go far beyond standard methods taught in classic psychological statistics (Efron, Bradley, Hastie, Trevor {cite:year}`Efron2016`). And yet at the heart of these developments are just a handful of key ideas (Gelman, {cite:year}`Gelman2021`). This course is designed to help you interactively develop your own statistical intuitions about these ideas using the Python programming language. At the core of the class is a deep understanding of the General-Linear-Model (GLM) from which we’ll build-up additional concepts (e.g. linear-contrasts, mixed-effects-models) and connect to related ideas in machine-learning (e.g. resampling, cross-validation, regularization).  
+**Requirements**: [PSYC 201A](https://canvas.ucsd.edu/courses/58741) or equivalent  
+**Note**: this course will be taught in the *Python*, but experience in another language (e.g. R, Matlab) is sufficient
+
+## Goals
+- Build a strong foundation in statistics based on a deep understanding of the GLM
+- Learn computational thinking, rather than statistical ritualizing - understanding the relationship between your analytic approach and what *inferences* are justified from first principles
+- Develop *practical* Python programming, data analysis, and visualization skills
+- Set you up for further coursework in advanced data-science, artificial intelligence, computational social science, or econometrics -->
 
 ## 2025 Instructional Team
 
@@ -30,6 +41,10 @@
   - `@Eshin`
   - `@Khuyen Le`
   - `@Ajinkya`
+* - Github
+  - `@ejolly`
+  - `@khuyen-le`
+  - `@jajinkya211`
 * - Office
   - Mandler 3509
   - McGill 2318
@@ -41,62 +56,108 @@
 ```
 
 ## Class Format
-This course will primarily consist of: (a) lectures/discussions; (b) interactive lab sessions; (c)weekly problem-sets; (d) a take-home midterm and final project. 
+
+### Github Classroom
+We will be using **Github Classroom** to manage all lectures, labs, HWs, exams, and projects. Each week, we'll update the course website with links (prefixed with: 📚) to new Github Classroom assignments that contain all the materials you'll need for that day's lecture, labs, or HWs. **At the start of class/lab, or when a HW problem-set is made available, you should accept assignments and `git clone` them to your local computer to work interactively**.
+
+When you're finished with an assignment or when you want to get feedback on work-in-progress, **you should `commit` your changes to your local copy of the assignment, and then `push` them to Github**. This will allow your instructors to review your work, provide Feedback, and/or have a private discussion with you while referencing questions/issues in your code directly. At the same time, you'll be building up a set of references (with feedback) that you can always check-out and refresh after this class is over!
+
+We've made [instructions and a detailed tutorial video](/pages/github_classroom.md) about using Github Classroom available on the course website, under the *Computing Resources* section. If you *consistently* have trouble with Github Classroom, please reach out to your instructors for help and we can figure out solutions together.
+
+### Course Website
+When in doubt, the course website should be the first place you look for any logistical information! We'll be updating it regularly week-by-week with new **Course Topics** and **Course Labs**. You'll be able to *view* newly posted materials materials for each week on the website, but **you should be using the Github Classroom to submit your work to receive credit**. 
+
+### Weekly Materials
+
+You can find links to each week's materials by linking on that week from the left sidebar. Each week has an overview page with links to:
+
+- Our plan for that week's topics (subject to change)
+- 📚 links to Github Classroom assignments for that week's lecture & labs
+- A notice at the top of the page with any HWs, links, and due dates
+- Any required or suggested readings
+- Additional helpful technical resources for that week's topics
+
+### Communication
+
+We will primarily be communicating using the course [Slack](https://psyc201b.slack.com/) so please make sure you join by the end of Week 1 or let your instructors know if you have any issues!
+
+### Reading Materials
+
+This website and linked materials will serve as the *primary digital textbook* for the course. **Required or optional readings/videos will be linked on that week's page**. We will be leaning heavily on readings from the following textbooks in addition to various assigned articles and will make PDFs available for any required readings:
+
+1. [Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-core-site/index.html) by Russ Poldrack
+2. [Computational and Inferential Thinking: The Foundations of Data Science](https://inferentialthinking.com/chapters/intro.html) by Ani Adhikari, John DeNero, David Wagner.
+3. [Elements of Statistical Learning](/pdfs/ESL.pdf) by Trevor Hastie, Robert Tibshirani, and Jerome Friedman
+4. [Regression and other stories](/pdfs/ROS.pdf) by Andrew Gelman, Jennifer Hill, and Aki Vehtari
+5. [The Truth about Linear Regression](/pdfs/TALR.pdf) by Cosma Rohilla Shalizi
+6. [Statistical Methods for Behavioral and Social Sciences](https://psych252.github.io/psych252book/) by Tobias Gestenberg
+
+### Computing Resources
+During Week 1, your instructors will help you configure your own computer so you have a working version of Python, scientific libraries we'll use, git/github configured to fetch and submit assignments, and code-editor (JupyterLab or VSCode) setup so you can work on notebook files interactively. If you have consistent issues with your local computer, please reach out to your instructors and we can help setup a [UCSD provided Jupyterhub instance](https://datahub.ucsd.edu/hub/login?next=%2Fhub%2F) or a [Github CodeSpace](https://github.com/features/codespaces) for you to work from.
+
+Throughout the term, we'll link to additional resources and guides under the *Computing Resources* section of the course website. These include a variety of introductory tutorials, [cheatsheets](/pages/cheatsheets), and with a [glossary of terminology](/pages/glossary) to help you navigate the scientific Python ecosystem.
+
+## Course work and grading
+
+Course work and grading will primarily consist of:
+
+- interactive lectures
+- interactive labs
+- weekly HW problem-sets
+- a take-home midterm and final project 
 
 ### Lectures
-Lecture topics are approximately organized by week as indicated on the left sidebar, but there will be some overlap between weeks when we need to spend more time on a topic. During scheduled lectures we'll be using a combination of slides, diagrams, and jupyter notebooks. I'll aim to make these materials available on this course website ahead of an upcoming class. After class, I'll plan to post any slide updates, a screen-recording from my computer, along with audio from the lecture/discussion. You don't need to look at slides ahead of class, but you **should be doing the readings** and be **prepared to participate in class discussions**.
+During lectures, we will step-through interactive [Python notebooks](https://jupyter.org/) together explaining core statistical concepts with a combination of illustrative examples, widgets, mini-exercises, and larger challenges. Where needed, we'll refer to additional slides and materials. Because of varied experience levels, it's likely we won't always be able to complete the full set of notebooks when we meet. When this happens, **we expect you to walk through and attempt anything we don't finish yourself outside of scheduled class time and push your changes to Github**. Your instructors will be available to answers questions over Slack, Github, or in-person. Unless otherwise noted, you don't need to look at materials ahead of lecture, but should **prepared to participate in any class discussions**.
 
 ### Labs
-Lab sessions will be built upon the concepts taught in lectures with a focus on hands-on computing with Python. Previous Python experience is *not required*, but prior programming experience in another langauge (e.g. R, Matlab) is helpful. We'll start slow and provide plently of resources, links, and additional tutorials on the course website. Labs will also familiarize you with the tools you'll be using to complete and submit assignments (i.e. jupyter notebooks, github, etc). 
+During labs, we'll build upon ideas introduced in lectures, deep-dive into scientific Python libraries and their particulars, and review HW problem-sets as needed. Previous Python experience is *not required*, but prior programming experience in another language (e.g. R, Matlab) is helpful. We'll start slow and provide plenty of resources, links, and additional tutorials on the course website. Labs will also familiarize you with any additional tools you'll be using to complete and submit assignments (i.e. jupyter notebooks, github classroom, etc). At the end of each lab, you'll be asked to **submit your work to Github Classroom**, and your instructors will be available to answer questions over Slack, Github, or in-person.
 
 ### Homework Problem-sets
-Approximately every week, you'll receive a problem-set of questions covering that week's topics. Problem-sets will always be due the **Sunday before class at midnight PST**. You should complete and submit problems using the provided jupyter notebook template, containing both code and prose that answers the questions. **You are permitted to work on weekly assignments with other students**. However, you should list the names of all students you worked with.
+Approximately every week, you'll receive a problem-set of questions covering that week's topics. Unless otherwise noted, problem-sets will always be due the **Sunday before class at midnight PST**. You should complete and submit problems using Github Classroom, submitting any code, figures, and prose that answer the questions. **You are encouraged to work on weekly assignments with other students**. However, you should list the names of all students you worked with in the notebook you submit.
 
 ### Midterm & Final
 The midterm will be a take-home exam that will consist of questions similar to the weekly problem-sets, **however you must complete the midterm by yourself**.  
 
-You have a choice of options for the final including:
+For the final, depending on our progress throughout the term, your instructors and I will give you the choice of several options:
 - a novel analysis of your own/your lab's data 
 - a novel analysis of a publicly available open dataset
 - paired problem-set generation, where you and another student will generate and score problem sets for each other
+- challenge questions generated by your instructors similar to weekly problem-sets and the midterm
 
-More details about the final will be provided later in the term and on this course website.
+More details about the final will be provided later in the term on the course website.
 
-## Class Resources
+### Grading
 
-### Communication
-We will primarily be communicating using the course [Slack](https://join.slack.com/t/psyc201b/shared_invite/zt-2wld531n4-tGqypNfqkftXdWZZ5vzoyA) so please make sure you join by the end of Week 1 or let your instructors know if you have any issues!
+**Mastery based grading.** We’re interested in grading you on your ability to achieve the skill sets that are taught in this course. Except for the mid-term and final, **you're allow to resubmit any Github Classroom Assignment more than once, if you feel like you could do better, or if you want to incorporate instructor feedback**. We'll grade you based *partially* on your accurate completion of the assignment, but *mostly* on your ability to demonstrate:
 
-### Reading Materials
-This website and linked materials will serve as the *primary digitial textbook* for the course. Readings for each week can be found on the [readings page](/pages/readings). We will be leaning heavily on readings from the following textbooks in addition to various assigned articles:
-1. [Statistical Thinkings for the 21st Century](https://statsthinking21.github.io/statsthinking21-core-site/index.html) by Russ Poldrack
-2. [Elements of Statistical Learning](/pdfs/ESL.pdf) by Trevor Hastie, Robert Tibshirani, and Jerome Friedman
-3. [Statistical Methods for Behavioral and Social Sciences (labs)](https://psych252.github.io/psych252book/) by Tobias Gestenberg
-4. [Regression and other stories](/pdfs/ROS.pdf) by Andrew Gelman, Jennifer Hill, and Aki Vehtari
-5. [The Truth about Linear Regression](/pdfs/TALR.pdf) by Cosma Rohilla Shalizi
-
-### Computing Resources
-Each student will have access to a [UCSD provided Jupyterhub instance](https://datahub.ucsd.edu/hub/login?next=%2Fhub%2F) that includes pre-installed versions of all Python packages and configurations necessary to complete the course. You should be able to access this instance by the end of Week 1 and from anywhere you can VPN into UCSD.
-
-Alternatively, your instructors can help you configure your own personal computer using the same Python packages and configurations. This option is ideal for students who have a preferred coding setup (e.g. [VSCode](https://code.visualstudio.com/)), have access to more advanced resources, or simply want to learn more about the scientific Python ecosystem.
-
-### Technical References
-Under the *Computing Resources* section, we will provide or link to various reference materials, tutorials, notebooks, and guides covering ancillary technical topics and hurdles you may encounter. These include a variety of introductory tutorials, [cheatsheets](/pages/cheatsheets), and with a [glossary of terminology](/pages/glossary) to help you navigate the scientific Python ecosystem.
-
-## Grading
-- 30% - *Class participation*: attending, reading, and participating in class discussions & labs
-- 20% - *Weekly problem-sets*: ~10 total, ~2% each, completed alone or with peers
-- 20% - *Midterm problem-set*: completed alone
-- 30% - *Final project*: choose your option 
-
-**Mastery based grading.** We’re interested in grading you on your ability to achieve the skill sets that are taught in this course. You’re allowed to resubmit problem sets for re-grading if you feel like you could do better. Your final grade will replace your initial grade.
+- You attempted the assignment in good-faith (lecture, lab, or HW notebooks)
+- You made effort to clearly document and explain your thought process, reasoning, code, and where/why you got stuck if you did
+- What attempts you made to fix issues you ran into, how you approached debugging, and what you learned from the process
+- Why you made a particular choice in your code/analysis, and/or what assumptions you made for a particular statistical inference
 
 **Cooperative extra-credit.** When working with other students on problem-sets, you have the opportunity to earn extra-credit. Working collaboratively with others is not sufficient for extra-credit. You can only submit a consideration for extra-credit if you and/or your peers feel like you went *above-and-beyond* on a given weekly problem-set. To do so, include a note in your jupyter notebook, indicating either: (a) who you helped, how, and what they learned; OR (b) who helped you, how, and what you learned. Extra credit can contribute up to 10% of your final grade.
 
-## Academic Integrity
-All students are expected to adhere to standards of academic integrity. Cheating of any kind on any assignment will not be tolerated. It is disrespectful to your peers, the university, and to me. If you are unsure what might constitute a violation of academic integrity, consult the instructor and/or the UCSD website on academic integrity: [http://academicintegrity.ucsd.edu](http://academicintegrity.ucsd.edu.). Any evidence of academic misconduct will be reported to the Academic Integrity Office.
+**Grading Breakdown**: Your final course grade will be calculated based on:  
 
-## Generative AI Course Policy
+1. **Class participation (30%)**
+    - attending lectures and labs
+    - submitting lecture and lab notebooks to Github Classroom
+    - asking & answering questions (code-review) about submitted assignments using the Feedback Pull-Request on your assignment repository
+    - completing any required readings and participating in class discussions
+2. **Weekly problem-sets (20%)**
+    - ~8 total, ~2-3% each
+    - attempting and submitting weekly problem-sets to Github Classroom, alone or with peers
+    - working with other students to help each other out (and possibly extra-credit)
+    - demonstrating improvement by updating your submissions based on instructor feedback
+3. **Midterm problem-set (20%)**
+    - attempting and submitting the midterm problem-set to Github Classroom, alone
+4. **Final project (30%)**
+    - TBD choose your option
+
+## Academic Integrity
+All students are expected to adhere to standards of academic integrity. Cheating of any kind on any assignment will not be tolerated. It is disrespectful to your peers, the university, and to your instructors. If you are unsure what might constitute a violation of academic integrity, ask your instructors and/or the UCSD website on academic integrity: [http://academicintegrity.ucsd.edu](http://academicintegrity.ucsd.edu.). Any evidence of academic misconduct will be reported to the Academic Integrity Office.
+
+### Generative AI Course Policy
 *Adapted from the UC San Diego & University of Waterloo Academic Integrity Offices*  
 
 ```{warning}
@@ -110,10 +171,10 @@ We encourage the use of Generative artificial intelligence (GenAI) tools like [O
 
 Instead you should aim to **master GenAI as tools** that supplement your programming and critical thinking skills, not as a substitute for them. They can be especially helpful for: debugging and troubleshooting unfamiliar code, reviewing Python fundamentals, reasoning about statistical concepts via analogy/example, or simply conversing in natural language about technical concepts. 
 
-## Absence policy
-Family emergencies and illness are excused absences, as per UCSD policy. Please do not come to class if you have active symptoms (instead, please rest!). In general, absences will have a direct impact on your ability to learn the skills presented in this course as well as your participation grade.  However, you do have opportunity to make up some grade points via extra-credit (see above).
+### Absence policy
+Family emergencies and illness are excused absences, as per UCSD policy. Please do not come to class if you have active symptoms (instead, please rest!). In general, absences will have a direct impact on your ability to learn the skills presented in this course as well as your participation grade. 
 
-**Life happens**. That being said, I really care about you, and your well-being. I know that life happens, and that sometimes you simply can’t be in class or turn in an assignment on time. There may also be times when I am unable to make it to class for a given reason, and I will ask for your grace and understanding then as well.  Please, prioritize your well-being in graduate school and use this class as a way for you to learn skills that will be useful for your career (versus focusing on passing the requirements on the class). 
+**Life happens**. That being said, I really care about you, and your well-being. I know that life happens, and that sometimes you simply can’t be in class or turn in an assignment on time. There may also be times when I am unable to make it to class for a given reason, and I will ask for your grace and understanding then as well.  Please, prioritize your well-being in graduate school and use this class as a way for you to learn skills that will be useful for your career (versus focusing on passing the requirements for a grade). 
 
-## OSD Accommodations
+### OSD Accommodations
 Any student with a documented disability will be accommodated according to University policy. For details, please consult the Office of Students with Disabilities (OSD): [http://disabilities.ucsd.edu](http://disabilities.ucsd.edu). If you require accommodation for any component of the course, please provide the instructor with documentation from OSD as soon as possible. Please note that accommodations cannot be made retroactively under any circumstances. 
