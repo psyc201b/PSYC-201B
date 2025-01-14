@@ -40,3 +40,7 @@ demos/
 assets/pdfs/*
 !assets/pdfs/git_github_slides.pdf
 *.slides.*
+
+# Extras
+syllabus_to_print.md
+**/wip/**
