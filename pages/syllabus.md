@@ -65,21 +65,24 @@ When you're finished with an assignment or when you want to get feedback on work
 We've made [instructions and a detailed tutorial video](/pages/github_classroom.md) about using Github Classroom available on the course website, under the *Computing Resources* section. If you *consistently* have trouble with Github Classroom, please reach out to your instructors for help and we can figure out solutions together.
 
 ### Course Website
-When in doubt, the course website should be the first place you look for any logistical information! We'll be updating it regularly week-by-week with new **Course Topics** and **Course Labs**. You'll be able to *view* newly posted materials materials for each week on the website, but **you should be using the Github Classroom to submit your work to receive credit**. 
+When in doubt, the course website should be the first place you look for any logistical information! We'll be updating it regularly week-by-week with a **new section** for that week's plans and materials. 
 
-#### Weekly Course Topics
+```{attention}
+While you'll always be able to *view* each week's materials and labs on the course website, **you should be using the Github Classroom to download and work on these materials interaactively, and submit your work to receive credit**. 
+```
 
-You can find links to each week's materials by linking on that week under the *Course Topics* section from the left sidebar. Each week has an overview page with links to:
+Under the **Overview** page for each week, you'll find:
 
 - Our plan for that week's topics (subject to change)
 - 📚 links to Github Classroom assignments for that week's lecture & labs
 - A notice at the top of the page with any HWs, links, and due dates
 - Any required or suggested readings
-- Additional helpful technical resources for that week's topics
 
-#### Weekly Lab Materials
+Under the **Lab** page for each week, you'll find:
 
-In addition, we'll be adding materials for each week's lab under the *Course Labs* section. Like weekly course topics, we'll create Github Classroom assignments for each lab and link to them from the weekly lab overview page.
+- Our goals for that lab (subject to change)
+- 📚 a link to the Github Classroom assignment for lab materials (also on the week's Overview page)
+- Additional helpful technical resources for that lab's topics
 
 ### Communication
 
@@ -87,7 +90,7 @@ We will primarily be communicating using the course [Slack](https://psyc201b.sla
 
 ### Reading Materials
 
-This website and linked materials will serve as the *primary digital textbook* for the course. **Required or optional readings/videos will be linked on that week's page**. We will be leaning heavily on readings from the following textbooks in addition to various assigned articles and will make PDFs available for any required readings:
+**Required or optional readings/videos will be linked on that week's Overview page**. We'll always make PDFs/links available for any materials so you won't be required to purchase or refer to any other course textbook. We will be leaning heavily on readings from the following sources:  
 
 1. [Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-core-site/index.html) by Russ Poldrack
 2. [Computational and Inferential Thinking: The Foundations of Data Science](https://inferentialthinking.com/chapters/intro.html) by Ani Adhikari, John DeNero, David Wagner.
@@ -132,14 +135,17 @@ More details about the final will be provided later in the term on the course we
 
 ### Grading
 
-**Mastery based grading.** We’re interested in grading you on your ability to achieve the skill sets that are taught in this course. Except for the mid-term and final, **you're allow to resubmit any Github Classroom assignment more than once, if you feel like you could do better, or if you want to incorporate instructor feedback**. We'll grade you based *partially* on your accurate completion of the assignment, but *mostly* on your ability to demonstrate:
+**Mastery based grading.** We’re interested in grading you on your ability to achieve the skill sets that are taught in this course regardless of your starting experience with Python.  
+
+For this reason, except for the midterm and final, **you can attempt any Github Classroom assignment multiple times**, especially if you think you could do better or if you want to incorporate instructor feedback. Practically, this just means making additional code changes and pushing another `commit` to your assignment. Your instructors will automatically be able to see your code changes and your latest submission. We'll grade you based *partially* on your accurate completion of the assignment, but *mostly* on your ability to demonstrate:
 
 - You attempted the assignment in good-faith (lecture, lab, or HW notebooks)
 - You made effort to clearly document and explain your thought process, reasoning, code, and where/why you got stuck if you did
 - What attempts you made to fix issues you ran into, how you approached debugging, and what you learned from the process
 - Why you made a particular choice in your code/analysis, and/or what assumptions you made for a particular statistical inference
 
-**Cooperative extra-credit.** When working with other students on problem-sets, you have the opportunity to earn extra-credit. Working collaboratively with others is not sufficient for extra-credit. You can only submit a consideration for extra-credit if you and/or your peers feel like you went *above-and-beyond* on a given weekly problem-set. To do so, include a note in your jupyter notebook, indicating either: (a) who you helped, how, and what they learned; OR (b) who helped you, how, and what you learned. Extra credit can contribute up to 10% of your final grade.
+**Cooperative extra-credit.** When working with other students on problem-sets, you have the opportunity to earn extra-credit. Working collaboratively with others is not sufficient for extra-credit. You can only submit a consideration for extra-credit if you and/or your peers feel like you went *above-and-beyond* on a given weekly problem-set. To do so, include a note in your jupyter notebook, indicating either: (a) who you helped, how, and what they learned; OR (b) who helped you, how, and what you learned.  
+*Extra credit can contribute up to 10% of your final grade.*
 
 **Grading Breakdown**: Your final course grade will be calculated based on:  
 
@@ -151,7 +157,7 @@ More details about the final will be provided later in the term on the course we
 2. **Weekly problem-sets (20%)**
     - ~8 total, ~2-3% each
     - attempting and submitting weekly problem-sets to Github Classroom, alone or with peers
-    - working with other students to help each other out (and possibly extra-credit)
+    - working with other students to help each other out (and earning up-to 10% extra-credit)
     - demonstrating improvement by updating your submissions based on instructor feedback
 3. **Midterm problem-set (20%)**
     - attempting and submitting the midterm problem-set to Github Classroom, alone

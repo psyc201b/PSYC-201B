@@ -1,9 +1,9 @@
-# Wk 2: Scientific Python, data munging & visualization
+# Lab
 
 ```{topic} Learning Objectives
 - Get a better feel for `numpy` and `matplotlib`
-- Introduce `pandas` for structured data manipulation (dataframes)
-- Introduce `seaborn` for statistical visualizations
+- Explore the Monty Hall problem
+- Explore the Dating Dilemma
 ```
 
 ```{topic} Additional Resources

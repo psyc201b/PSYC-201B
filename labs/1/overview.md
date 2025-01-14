@@ -1,4 +1,4 @@
-# Wk 1: Setup & Intro to Python
+# Lab
 
 ```{topic} Learning Objectives
 - Get setup with a local Python development environment

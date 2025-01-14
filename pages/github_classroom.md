@@ -1,6 +1,12 @@
 # Assignments (Github Classroom)
 
-We'll be using Github Classroom to share all resources for class. This will allow you to retrieve and work on class, lab, and HW notebooks on your local computer **without having to click the download** button from the course website. At the same time this will allow your instructors to review your work, provide feedback, and/or have a private discussion with you while referencing questions/issues in your code directly.
+We'll be using Github Classroom to share all resources for class. **This is the primary way you should be downloading and working with course materials**. Each week, we'll create a new Github Classroom assignment link (prefixed with 📚). Clicking it will automatically create a github repository for you containing all the materials you need. 
+
+You'll then be able to clone this repository to your computer, working through files interactively, make edits/updates, and commit and submit your assignment for review. Each time you push your work to Github, your instructors will be able to provide review, feedback, and discussions that directly reference your code.
+
+```{tip}
+You'll *always* be able to access your assignment repositories, history, and instructor feedback after the course is over. So the more effort you put into assignments, the more you engage with instructors, the more you'll learn, and the higher quality resources you'll have for your own future reference!
+```
 
   ## Quick steps
 

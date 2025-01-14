@@ -16,43 +16,24 @@ parts:
   - file: pages/git
   - file: pages/cheatsheets
   - file: pages/glossary
-- caption: Course Topics
+- caption: Week 1
   numbered: false
   chapters:
     - file: lectures/wk1/overview
       sections:
       - file: lectures/wk1/1
       - file: lectures/wk1/2
+    - file: labs/1/overview
+      sections:
+      - file: labs/1/local_setup
+      - file: labs/1/python
+- caption: Week 2
+  numbered: false
+  chapters:
     - file: lectures/wk2/overview
       sections:
       - file: lectures/wk2/01_Python_Fundamentals_Review
       - file: lectures/wk2/02_Debugging
       - file: lectures/wk2/03_CLT
       - file: lectures/wk2/04_central_tendency
-      # - file: lectures/wk2/dating_dilemma
-- caption: Course Labs
-  numbered: 1
-  chapters:
-    - file: labs/1/overview
-      sections:
-      - file: labs/1/local_setup
-      - file: labs/1/python
-  #  - file: labs/2/overview
-      # sections:
-      # - file: labs/2/1_dating_dilemma
-      # - file: labs/2/2_dating_dilemma
-      # - file: labs2/3_tidydata
-# - caption: Week 2
-#   numbered: 1
-#   chapters:
-#     - file: lectures/wk2/overview
-#       sections:
-#       - file: lectures/wk2/01_Python_Fundamentals_Review
-#       - file: lectures/wk2/02_Debugging
-#       - file: lectures/wk2/03_CLT
-#       - file: lectures/wk2/04_central_tendency
-#     - file: labs/2/overview
-#       sections:
-#       - file: labs/2/1_dating_dilemma
-#       - file: labs/2/2_dating_dilemma
-#       # - file: labs2/3_tidydata
+    - file: labs/2/overview

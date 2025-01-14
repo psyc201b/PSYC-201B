@@ -1,7 +1,7 @@
-# Wk 2: Describing data, Sampling, and Simulation
+# Overview
 ```{admonition} HW 1
 Available: **Wed, Jan 15** (after class)  
-Due: **Mon, Jan 20** (before class)
+Due: **Tues, Jan 21** (before lab)
 ```
 
 ```{important}
@@ -9,10 +9,10 @@ Due: **Mon, Jan 20** (before class)
 
 *Any links below that include 📚, will take you to a github classroom assignment that you should accept and clone to your local computer. You can use these local files to follow-along in lecture, lab, or to work on HW assignments.* 
 
-*We've recorded a tutorial video you can find linked in the course navigation to the left, under Computing Resources > [Using Github Classroom](/pages/github_classroom.md) in-case you get confused!*
+*We've summarized the steps and recorded a tutorial video on the [Assignments (Github Classroom)](/pages/github_classroom.md) page in-case you get confused!*
 ```
 
-## Weekly Plan
+## Weekly Plan: Describing data, Sampling, and Simulation
 ```{topic} [📚 Monday Jan 13th](https://classroom.github.com/a/4Es8Effw) 
 - Overview of getting and submitting assignments with [Github Classroom](/pages/github_classroom)
 - Review of Python fundamentals  
@@ -23,13 +23,14 @@ Due: **Mon, Jan 20** (before class)
 
 ```{topic} Tuesday Jan 14th (LAB)
 - `numpy` and `matplotlib` fundamentals
-- Simulating strategies Dating Dilemma
+- Exploring the Monty Hall problem
+- Exploring the Dating Dilemma
 ```
 
 ```{topic} Wednesday Jan 15th 
 - Exploratory Data Analysis
 - Tidy-data and statistical visualization
-- Intro to `pandas` and `seaborn`
+- `pandas` and `seaborn` fundamentals
 - Introducing the OKCupid DataSet
 - HW 1 Introduction
 ```

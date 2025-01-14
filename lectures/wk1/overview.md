@@ -1,21 +1,22 @@
-# Wk 1: Introduction - building statistical intuitions
+# Overview
 
 ```{admonition} No HW
 *No HW submissions this week. But please check-out the readings below.*
 ```
 
-## Weekly Plan
-```{topic} Monday Jan 6th 
+## Weekly Plan: Introduction - building statistical intuitions
+
+```{topic} [Monday Jan 6th](./1.md)
 - Introduce course overview, goals, and instructors
 - Learn about you and your goals!
 ```
 
-```{topic} Tuesday Jan 7th (Lab)
+```{topic} [Tuesday Jan 7th (LAB)](/labs/1/overview.md)
 - Getting setup with git, github, and Python
 - Python basics
 ```
 
-```{topic} Wednesday Jan 8th
+```{topic} [Wednesday Jan 8th](2.md)
 - Background survey feedback
 - What is statistics?
 - Two cultures of statistical modeling
