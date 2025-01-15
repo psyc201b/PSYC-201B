@@ -37,3 +37,6 @@ parts:
       - file: lectures/wk2/03_CLT
       - file: lectures/wk2/04_central_tendency
     - file: labs/2/overview
+      sections:
+      - file: labs/2/numpy
+      - file: labs/2/matplotlib

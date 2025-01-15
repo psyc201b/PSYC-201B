@@ -21,18 +21,16 @@ Due: **Tues, Jan 21** (before lab)
 - Measures of Central Tendency
 ```
 
-```{topic} Tuesday Jan 14th (LAB)
+```{topic} [📚 Tuesday Jan 14th (LAB)](https://classroom.github.com/a/_8LpMasX)
 - `numpy` and `matplotlib` fundamentals
-- Exploring the Monty Hall problem
-- Exploring the Dating Dilemma
 ```
 
 ```{topic} Wednesday Jan 15th 
 - Exploratory Data Analysis
 - Tidy-data and statistical visualization
-- `pandas` and `seaborn` fundamentals
-- Introducing the OKCupid DataSet
 - HW 1 Introduction
+<!-- - `pandas` and `seaborn` fundamentals -->
+<!-- - Introducing the OKCupid DataSet -->
 ```
 
 ## Resources
@@ -43,5 +41,5 @@ Due: **Tues, Jan 21** (before lab)
 ```
 
 ```{topic} Python References
-*Will be updated*
+See this week's [Lab overview page](/labs/2/overview) for a list of resources
 ```
