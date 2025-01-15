@@ -36,6 +36,7 @@ parts:
       - file: lectures/wk2/02_Debugging
       - file: lectures/wk2/03_CLT
       - file: lectures/wk2/04_central_tendency
+      - file: lectures/wk2/05_simulation
     - file: labs/2/overview
       sections:
       - file: labs/2/numpy

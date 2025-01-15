@@ -26,11 +26,9 @@ Due: **Tues, Jan 21** (before lab)
 ```
 
 ```{topic} Wednesday Jan 15th 
-- Exploratory Data Analysis
-- Tidy-data and statistical visualization
-- HW 1 Introduction
-<!-- - `pandas` and `seaborn` fundamentals -->
-<!-- - Introducing the OKCupid DataSet -->
+- Simulation and re-sampling
+- monte-carlo, bootstrapping, permuting, and cross-validation
+- [Statistics for Hackers](https://www.youtube.com/watch?v=Iq9DzN6mvYA) [*optional Youtube video*]
 ```
 
 ## Resources
