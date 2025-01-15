@@ -4,16 +4,16 @@ Wk,Topic,Date,Class/Lab
 ,,Wed Jan 8th,[What is statistics?](/lectures/wk1/2)
 2,"[Describing data, sampling & simulation](/lectures/wk2/overview)",Mon Jan 13th,"[Python Review](/lectures/wk2/01_Python_Fundamentals_Review), [Debugging](/lectures/wk2/02_Debugging), [CLT](/lectures/wk2/03_CLT), [central tendency](/lectures/wk2/04_central_tendency)"
 ,,Tues Jan 14th,"[*Lab - numpy, matplotlib, simulation*](/labs/2/overview)"
-,,Wed Jan 15th,Exporatory Data Analysis
+,,Wed Jan 15th,Simulation & Resampling
 3,Essence of Linear Algebra & Model Intro,Mon Jan 20th,NO CLASS - MLK day | [Youtube Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 ,,Tues Jan 21st,"*Lab - Thinking in lines / EDA*"
 ,,Wed Jan 22nd,What is a model? GLM Intro
 4,"Model Estimation, Prediction, & Parameter inference",Mon Jan 27th,"OLS: estimation & inference"
 ,,Tues Jan 28th,*Lab - GLM (statsmodels / scikit-learn)*
 ,,Wed Jan 29th,"Design Matrices & Generalized Models"
-5,"Re-sampling Statistics",Mon Feb 3rd,Bootstrapping & Permuting
+5,"GLM II",Mon Feb 3rd,More GLM
 ,,Tues Feb 4th,*Lab - Discrete predictors & outcomes*
-,,Wed Feb 5th,"Prediction & Cross-validation"
+,,Wed Feb 5th,"More GLM"
 6,Midterm (take-home exam),Mon Feb 10th,*Lab - resampling statistics*
 ,,Tues Feb 11th,*Midterm - on your own*
 ,,Wed Feb 12th,*Midterm - on your own*

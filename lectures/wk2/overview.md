@@ -25,7 +25,7 @@ Due: **Tues, Jan 21** (before lab)
 - `numpy` and `matplotlib` fundamentals
 ```
 
-```{topic} Wednesday Jan 15th 
+```{topic} [📚 Wednesday Jan 15th](https://classroom.github.com/a/CVCgMVNQ) 
 - Simulation and re-sampling
 - monte-carlo, bootstrapping, permuting, and cross-validation
 - [Statistics for Hackers](https://www.youtube.com/watch?v=Iq9DzN6mvYA) [*optional Youtube video*]
