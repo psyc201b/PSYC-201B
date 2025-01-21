@@ -41,3 +41,15 @@ parts:
       sections:
       - file: labs/2/numpy
       - file: labs/2/matplotlib
+- caption: Week 3
+  numbered: false
+  chapters:
+    - file: lectures/wk3/overview
+      # sections:
+      # - file: lectures/wk3/01_lines
+      # - file: lectures/wk3/02_model
+    - file: labs/3/overview
+      sections:
+      - file: labs/3/01_polars
+      - file: labs/3/02_seaborn
+      - file: labs/3/03_challenge

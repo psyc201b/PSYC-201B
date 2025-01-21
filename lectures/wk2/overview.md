@@ -1,7 +1,7 @@
 # Overview
 ```{admonition} HW 1
-[📚 **HW Available Now**](https://classroom.github.com/a/OUHgtClr)
-Due: **Wed, Jan 22 1** (by Midnight)
+[📚 **HW Available Now**](https://classroom.github.com/a/OUHgtClr)  
+Due: **Wed, Jan 22nd** (by Midnight)
 ```
 
 ```{important}
