@@ -21,7 +21,7 @@ We won't be meeting together, but please take a few moments to read/watch the fo
   - [Chap 7: Inverse matrices, column space, and null space](https://www.3blue1brown.com/lessons/inverse-matrices) ~*12m*
 ```
 
-```{topic} [📚 Tuesday Jan 20th (LAB)](https://classroom.github.com/a/_8LpMasX)
+```{topic} [📚 Tuesday Jan 20th (LAB)](https://classroom.github.com/a/H83tmXav)
 - Introduction to `pandas` and `seaborn` for exploratory data analysis (EDA)
 ```
 
