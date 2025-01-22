@@ -2,7 +2,7 @@
 
 ```{attention}
 **[📚 Github Classroom Link with Lab Resources](https://classroom.github.com/a/H83tmXav)**    
-*Note: this link is also available on the [overview page for this week](/lectures/wk3/overview) by clicking on today's date*
+*Note: this link is also available on the [overview page for this week](/lectures/wk3/overview)*
 ```
 
 ```{topic} Learning Objectives

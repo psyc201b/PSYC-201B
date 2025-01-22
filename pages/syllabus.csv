@@ -1,20 +1,20 @@
 Wk,Topic,Date,Class/Lab
-1,[Intro - building statistical intuitions](/lectures/wk1/overview),Mon Jan 6th,[Introduction & Logistics](/lectures/wk1/1)
+1,[Intro - building statistical intuitions](/lectures/wk1/overview),Mon Jan 6th,∆
 ,,Tues Jan 7th,"[*Lab - computing fundamentals, Python intro*](/labs/1/overview)"
 ,,Wed Jan 8th,[What is statistics?](/lectures/wk1/2)
 2,"[Describing data, sampling & simulation](/lectures/wk2/overview)",Mon Jan 13th,"[Python Review](/lectures/wk2/01_Python_Fundamentals_Review), [Debugging](/lectures/wk2/02_Debugging), [CLT](/lectures/wk2/03_CLT), [central tendency](/lectures/wk2/04_central_tendency)"
 ,,Tues Jan 14th,"[*Lab - numpy, matplotlib, simulation*](/labs/2/overview)"
-,,Wed Jan 15th,Simulation & Resampling
-3,Essence of Linear Algebra & Model Intro,Mon Jan 20th,NO CLASS - MLK day | [Youtube Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-,,Tues Jan 21st,"[*Lab - pandas, seaborn, and EDA*]((/labs/3/overview)"
-,,Wed Jan 22nd,What is a model? Thinking in Lines
-4,"Model Estimation, Prediction, & Parameter inference",Mon Jan 27th,"OLS: estimation & inference"
-,,Tues Jan 28th,*Lab - GLM (statsmodels / scikit-learn)*
-,,Wed Jan 29th,"Design Matrices & Generalized Models"
-5,"GLM II",Mon Feb 3rd,More GLM
-,,Tues Feb 4th,*Lab - Discrete predictors & outcomes*
-,,Wed Feb 5th,"More GLM"
-6,Midterm (take-home exam),Mon Feb 10th,*Lab - resampling statistics*
+,,Wed Jan 15th,[Simulation & Sampling](/lectures/wk2/05_simulation)
+3,Review & Exploratory Data Analysis,Mon Jan 20th,NO CLASS - MLK day
+,,Tues Jan 21st,"*Lab - Python basics review*"
+,,Wed Jan 22nd,"[*Lab - polars, seaborn, EDA*](/labs/3/overview)"
+4,"Linear Models",Mon Jan 27th,"Correlation, covariance & thinking in lines"
+,,Tues Jan 28th,*Lab - Review*
+,,Wed Jan 29th,"Regression & OLS"
+5,"General Linear Models",Mon Feb 3rd,The General Linear Model
+,,Tues Feb 4th,*Lab - GLM (statsmodels)*
+,,Wed Feb 5th,"Design Matrices, discrete predictors & outcomes"
+6,Midterm (take-home exam),Mon Feb 10th,*Midterm - on your own*
 ,,Tues Feb 11th,*Midterm - on your own*
 ,,Wed Feb 12th,*Midterm - on your own*
 7,Dependence among predictors,Mon Feb 17th,NO CLASS - Presidents' day
