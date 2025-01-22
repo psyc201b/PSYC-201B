@@ -5,7 +5,7 @@ Wk,Topic,Date,Class/Lab
 2,"[Describing data, sampling & simulation](/lectures/wk2/overview)",Mon Jan 13th,"[Python Review](/lectures/wk2/01_Python_Fundamentals_Review), [Debugging](/lectures/wk2/02_Debugging), [CLT](/lectures/wk2/03_CLT), [central tendency](/lectures/wk2/04_central_tendency)"
 ,,Tues Jan 14th,"[*Lab - numpy, matplotlib, simulation*](/labs/2/overview)"
 ,,Wed Jan 15th,[Simulation & Sampling](/lectures/wk2/05_simulation)
-3,Review & Exploratory Data Analysis,Mon Jan 20th,NO CLASS - MLK day
+3,[Review & Exploratory Data Analysis](/lectures/wk3/overview),Mon Jan 20th,NO CLASS - MLK day
 ,,Tues Jan 21st,"*Lab - Python basics review*"
 ,,Wed Jan 22nd,"[*Lab - polars, seaborn, EDA*](/labs/3/overview)"
 4,"Linear Models",Mon Jan 27th,"Correlation, covariance & thinking in lines"
