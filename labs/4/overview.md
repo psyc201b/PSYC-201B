@@ -1,18 +1,10 @@
-# Ordinary-least-squares (OLS) and regression
+# Lab
 
 ```{topic} Learning Objectives
-- goal 1
-- goal 2
-- goal 3
-```
-
-```{topic} Readings
-- reading 1
-- reading 2
-- reading 3
+- Understand how HW relates to concepts of simulation, permutation, and bootstrapping
+- Introduce HW 2: EDA + resampling
 ```
 
 ```{topic} Resources
-- one
-- two
+*To be added*
 ```
