@@ -54,8 +54,8 @@ parts:
   numbered: false
   chapters:
     - file: lectures/wk4/overview
-      sections:
-      - file: lectures/wk4/lines
+      # sections:
+      # - file: lectures/wk4/lines
     - file: labs/4/overview
-      sections:
-      - file: labs/4/HW_review_intro
+      # sections:
+      # - file: labs/4/HW_review_intro

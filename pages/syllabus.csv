@@ -18,28 +18,23 @@ Wk,Topic,Date,Class/Lab
 ,,Wed Feb 5th,"Design Matrices & Categorical variables"
 6,Categorical Predictors,Mon Feb 10th,"Coding schemes & ANOVA  
 **HW 2 due @ midnight**"
-,,Tues Feb 11th,"*Lab - HW 2 Review, Midterm Introduction*  
-**Midterm available @ midnight**"
+,,Tues Feb 11th,"*Lab - HW 2 Review, Midterm Introduction*  "
 ,,Wed Feb 12th,"NO CLASS - *Midterm office hours* "
-7,Midterm review & Dealing with multi-collinearity,Mon Feb 17th,"NO CLASS - Presidents' day  
-**Midterm due @ midnight**"
+7,Midterm review & Dealing with multi-collinearity,Mon Feb 17th,"NO CLASS - Presidents' day  "
 ,,Tues Feb 18th,*Lab - Midterm Review*
 ,,Wed Feb 19th,Multi-collinearity & regularization
 8,Dealing with multi-collinearity II,Mon Feb 24th,"*Lab - sklearn, ridge & lasso*"
 ,,Tues Feb 25th,Dimensionality reduction & PCA
-,,Wed Feb 26th,"*Lab - dimensionality reduction*  
-**HW 3 available @ midnight**"
+,,Wed Feb 26th,"*Lab - dimensionality reduction*  "
 9,Dependence among outcomes,Mon Mar 3rd,"Eshin Away - In class office hours w/ TAs"
-,,Tues Mar 4th,"Non-independent data: Traditions (2-stage, sandwhich, ANOVA-rm, LMMs)  
-**HW 3 due @ midnight**"
+,,Tues Mar 4th,"Non-independent data: Traditions (2-stage, sandwhich, ANOVA-rm, LMMs)  "
 ,,Wed Mar 5th,"*Lab - HW 3 Review*  
-**HW 4 available @ midnight**"
+"
 10,Dependence among outcomes II,Mon Mar 10th,"*Lab - pymer4, LMMs*"
 ,,Tues Mar 11th,"LMMs (cont'd)"
 ,,Wed Mar 12th,"*Lab - HW 4 Review, Final Introduction*  
-**HW 4 due @ midnight**  
-**Final available @ midnight**  "
+ "
 11,Final,Mon Mar 17th,*Final project work-time*
 ,,Tues Mar 18th,*Final project work-time*
 ,,Wed Mar 18th,"Summary & wrap-up  
-**Final due @ midnight**"
+"
