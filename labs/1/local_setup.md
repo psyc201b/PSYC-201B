@@ -87,13 +87,9 @@ From [the interface](https://jupyterlab.readthedocs.io/en/stable/user/interface.
 
 [VSCode](https://code.visualstudio.com/) is a popular, general-purpose IDE (integrated-development-environment) that runs as a standalone application on your computer. It's a bit more advanced than Jupyterlab, but it's also more powerful and customizable. It's the preferred way that Eshin likes to work with Python as well as other langauges (e.g. Javascript, bash, R, etc). It also has free access to [Github Copilot](https://github.com/features/copilot), a GenAI tool built right into VSCode, as well as tight integration with Github (e.g. changes, commits, push/pulls, etc).
 
-<<<<<<< HEAD
-To install VSCode, we'll first install a package in the class environmen that will make it "visible" to VSCode. After activating your class environment run `pip install ipykernel`. Then visit the [VSCode download page](https://code.visualstudio.com/download) and follow the instructions for your computer's OS. After it's installed you can launch VSCode by opening in just like any other application on your computer.
-=======
 To install VSCode, we'll first install a package in the class environmen that will make it "visible" to VSCode. After activating your class environment run `pip install ipykernel`. Then visit the [VSCode download page](https://code.visualstudio.com/download) and follow the instructions for your computer's OS. Once installed, you can open the app like you would any other app on your computer. 
 
 Optionally, you can launch VSCode by running `code` in your terminal. To do so, open VSCode and open the Command Palette by running `cmd+shift+p` (macOS) or `ctrl+shift+p` (windows). Search for `Shell Command: Install 'code' command in PATH command.`, then click that.
->>>>>>> refs/remotes/origin/main
 
 After launching VSCode bring up the **command palette** by using the keyboard shortcut: `cmd+shift+p` (macOS) `ctrl+shift+p` (windows). The command palette is your best friend for running any types of commands in VSCode. For now search for and select "install code command" in the command palette. This will allow you to launch quickly open VSCode from the terminal using your current working directly by typing `code .` or `code path/to/folder`. 
 
