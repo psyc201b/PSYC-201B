@@ -1,6 +1,6 @@
 # Overview
 ```{admonition} HW 2
-Available: **Tues, Jan 28th**  
+Available: **Wed, Jan 29th**  
 Due: **Mon, Feb 10th** (by Midnight)
 ```
 
@@ -8,9 +8,14 @@ Due: **Mon, Feb 10th** (by Midnight)
 ```{topic} [📚 Monday Jan 27th (last LAB continued)](https://classroom.github.com/a/H83tmXav)
 - Introduction to `seaborn` for statistical visualizations
 - EDA with `polars` & `seaborn`
+- See Week 3 lab for this week's notebooks
 ```
 
-```{topic} Tuesday Jan 28th (LAB)
+```{topic} [📚 Tuesday Jan 28th (LAB)](https://classroom.github.com/a/H83tmXav)
+
+**Note:** *The link above will bring you to assignment repository you cloned in week 2. You should update it like we did yesterday using [these instructions](classroom-updates).*
+
+- [Quick feedback poll](https://docs.google.com/forms/d/e/1FAIpQLSdPnaKV3IsLEGFMbGtUEFqEEem0u6jb8WhpgLF6necyxY6Jeg/viewform)
 - HW 1 review
 - HW 2 introduction
 ```

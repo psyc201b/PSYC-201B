@@ -1,10 +1,5 @@
 # Lab
 
-```{topic} Learning Objectives
-- Understand how HW relates to concepts of simulation, permutation, and bootstrapping
-- Introduce HW 2: EDA + resampling
-```
-
-```{topic} Resources
-*To be added*
+```{note} 
+See [Week 3 lab](/labs/3/overview) for this the link to week's *updated* notebooks. You should update them using the [these instructions](classroom-updates)
 ```

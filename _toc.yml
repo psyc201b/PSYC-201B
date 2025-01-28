@@ -48,14 +48,13 @@ parts:
     - file: labs/3/overview
       sections:
       - file: labs/3/01_polars
+      - file: labs/3/02_new_eda_seaborn
       - file: labs/3/02_seaborn
+      - file: labs/3/04_permutation_comparison
       - file: labs/3/03_challenge
 - caption: Week 4
   numbered: false
   chapters:
     - file: lectures/wk4/overview
-      # sections:
       # - file: lectures/wk4/lines
     - file: labs/4/overview
-      # sections:
-      # - file: labs/4/HW_review_intro

@@ -10,9 +10,9 @@ Wk,Topic,Date,Class/Lab
 ,,Wed Jan 22nd,"[*Lab - polars, seaborn, EDA*](/labs/3/overview)"
 4,"[Review & Exploratory Data Analysis](/lectures/wk4/overview)",Mon Jan 27th,"[*Lab cont'd - polars, seaborn, EDA*](/labs/3/overview)  
 **HW 1 due @ midnight**"
-,,Tues Jan 28th,"*Lab - HW 1 Review, HW 2 Introduction*  
+,,Tues Jan 28th,"*Lab - HW 1 Review, HW 2 Introduction*"
+,,Wed Jan 29th,"Correlation, covariance & thinking in lines  
 **HW 2 Available @ midnight**"
-,,Wed Jan 29th,"Correlation, covariance & thinking in lines"
 5,"General Linear Model",Mon Feb 3rd,"Regression, OLS"
 ,,Tues Feb 4th,*Lab - statsmodels*
 ,,Wed Feb 5th,"Design Matrices & Categorical variables"
