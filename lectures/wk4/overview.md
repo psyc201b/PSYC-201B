@@ -16,7 +16,7 @@ Due: **Mon, Feb 10th** (by Midnight)
 **Note:** *The link above will bring you to assignment repository you cloned in week 2. You should update it like we did yesterday using [these instructions](classroom-updates).*
 
 - [Quick feedback poll](https://docs.google.com/forms/d/e/1FAIpQLSdPnaKV3IsLEGFMbGtUEFqEEem0u6jb8WhpgLF6necyxY6Jeg/viewform)
-- HW 1 review
+- [📚 HW 1 review](https://classroom.github.com/a/OUHgtClr)
 - HW 2 introduction: [Takagi et al, 2022](https://www.nature.com/articles/s41598-022-10261-5)
 ```
 
