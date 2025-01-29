@@ -17,7 +17,7 @@ Due: **Mon, Feb 10th** (by Midnight)
 
 - [Quick feedback poll](https://docs.google.com/forms/d/e/1FAIpQLSdPnaKV3IsLEGFMbGtUEFqEEem0u6jb8WhpgLF6necyxY6Jeg/viewform)
 - HW 1 review
-- HW 2 introduction
+- HW 2 introduction: [Takagi et al, 2022](https://www.nature.com/articles/s41598-022-10261-5)
 ```
 
 ```{topic} Wednesday Jan 29th 
