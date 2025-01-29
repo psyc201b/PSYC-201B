@@ -21,8 +21,9 @@ Due: **Mon, Feb 10th** (by Midnight)
 ```
 
 ```{topic} Wednesday Jan 29th 
-- Correlation & Covariance
-- Thinking in lines
+- Summarizing *relationships*
+- Intuitions about *similarity*
+- Covariance & correlation
 ```
 
 <!-- ```{topic} Videos - watch *before* class on 29th  
