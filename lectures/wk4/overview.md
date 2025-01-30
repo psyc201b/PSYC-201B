@@ -1,6 +1,6 @@
 # Overview
 ```{admonition} HW 2
-Available: **Wed, Jan 29th**  
+[📚 **HW Available Now**](https://classroom.github.com/a/6USVjsdn)  
 Due: **Mon, Feb 10th** (by Midnight)
 ```
 
