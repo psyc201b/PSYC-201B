@@ -15,6 +15,7 @@ parts:
   chapters:
   - file: pages/git
   - file: pages/cheatsheets
+  - file: pages/formulas
   - file: pages/glossary
 - caption: Week 1
   numbered: false
@@ -56,5 +57,11 @@ parts:
   numbered: false
   chapters:
     - file: lectures/wk4/overview
-      # - file: lectures/wk4/lines
     - file: labs/4/overview
+- caption: Week 5
+  numbered: false
+  chapters:
+    - file: lectures/wk5/overview
+      sections:
+      - file: lectures/wk5/1
+      - file: lectures/wk5/intro

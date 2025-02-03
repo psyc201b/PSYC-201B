@@ -1,18 +1,33 @@
-# (re)-Sampling, uncertainty, inference, & prediction
+# Overview
+```{admonition} No **new** HW
+Please continue working on HW2  
+Due: **Mon, Feb 10th** (by Midnight)
+```
 
-```{topic} Learning Objectives
-- goal 1
-- goal 2
-- goal 3
+## Weekly Plan
+```{topic} [Monday Feb 3rd](/lectures/wk5/1) - Review & Models Intro
+- *no github classroom link for today*
+- [Formulas refresher](/pages/formulas)
+- Please check-out readings below - they go into more detail than slides
+```
+
+```{topic} Tuesday Feb 4th
+- Model estimation
+- Ordinary-Least-Squares
+- Linear algebra basics
+- The General Linear Model
+```
+
+```{topic} Wed Feb 5th
+- TBD
+<!-- - Revisiting Design Matrix and categorical variables
+- Regression for common tests
+- Coding schemes for multiple levels
+- Omnibus tests & ANOVA -->
 ```
 
 ```{topic} Readings
-- reading 1
-- reading 2
-- reading 3
-```
-
-```{topic} Resources
-- one
-- two
+  - [The Flatland Fallacy](https://onlinelibrary.wiley.com/doi/10.1111/tops.12404)
+  - <a href="/pdfs/DAAMCA_Ch2.pdf" width="100%" height="600px" />Data Analysis: Chapter 2 [PDF] </a>  
+  - <a href="/pdfs/DAAMCA_Ch4.pdf" width="100%" height="600px" />Data Analysis: Chapter 4 [PDF] </a>  
 ```
