@@ -19,12 +19,10 @@ Due: **Mon, Feb 10th** (by Midnight)
 - [Interactive Linear Regression Explorer](https://mlu-explain.github.io/linear-regression/) 
 ```
 
-```{topic} Wed Feb 5th
-- TBD
-<!-- - Revisiting Design Matrix and categorical variables
-- Regression for common tests
-- Coding schemes for multiple levels
-- Omnibus tests & ANOVA -->
+```{topic} [Wednesday Feb 5th](/lectures/wk5/3) - Model Assumptions
+- Review
+- Ordinary-Least-Squares
+- Model Assumptions
 ```
 
 ```{topic} Readings

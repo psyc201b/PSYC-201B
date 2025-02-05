@@ -65,3 +65,4 @@ parts:
       sections:
       - file: lectures/wk5/1
       - file: lectures/wk5/2
+      - file: lectures/wk5/3

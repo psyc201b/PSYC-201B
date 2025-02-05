@@ -13,18 +13,18 @@ Wk,Topic,Date,Class/Lab
 ,,Tues Jan 28th,"*Lab - HW 1 Review*"
 ,,Wed Jan 29th,"Correlation, covariance & thinking in lines  
 **HW 2 Available @ midnight**"
-5,"General Linear Model",Mon Feb 3rd,"Regression, OLS"
-,,Tues Feb 4th,*Lab - statsmodels*
-,,Wed Feb 5th,"Estimation, inference, & error"
-6,GLM II,Mon Feb 10th,"Multiple predictors & interactions  
+5,"General Linear Model",Mon Feb 3rd,"Intro to Models & Model Comparison"
+,,Tues Feb 4th,Model Estimation & OLS
+,,Wed Feb 5th,"Model Assumptions & Evaluation"
+6,GLM II,Mon Feb 10th,"Parameter Inference & *Lab - statsmodels*  
 **HW 2 due @ midnight**"
 ,,Tues Feb 11th,"*Lab - HW 2 Review*  "
-,,Wed Feb 12th,"Design Matrices & Categorical variables  
+,,Wed Feb 12th,"Interactions & multi-collinearity  
 **HW 3 available @ midnight**"
 7,GLM III,Mon Feb 17th,"NO CLASS - Presidents' day  "
-,,Tues Feb 18th,"*Lab - patsy, ANOVA*"
-,,Wed Feb 19th,Model comparison & cross-validation
-8,Multi-collinearity ,Mon Feb 24th,"Dimensionality reduction & PCA  
+,,Tues Feb 18th,"Design Matrices & Categorical variables"
+,,Wed Feb 19th,ANOVA & other tests
+8,Disentangling dependence among predictors,Mon Feb 24th,"Dimensionality reduction, PCA, FA  
 **HW 3 due @ midnight**"
 ,,Tues Feb 25th,*Lab - HW 3 Review*
 ,,Wed Feb 26th,"*Lab - sklearn, cross-validation, decomposition*  
