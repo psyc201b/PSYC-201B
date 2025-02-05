@@ -64,4 +64,4 @@ parts:
     - file: lectures/wk5/overview
       sections:
       - file: lectures/wk5/1
-      - file: lectures/wk5/intro
+      - file: lectures/wk5/2

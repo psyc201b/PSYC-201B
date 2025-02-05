@@ -11,11 +11,12 @@ Due: **Mon, Feb 10th** (by Midnight)
 - Please check-out readings below - they go into more detail than slides
 ```
 
-```{topic} Tuesday Feb 4th
-- Model estimation
-- Ordinary-Least-Squares
-- Linear algebra basics
+```{topic} [Tuesday Feb 4th](/lectures/wk5/2) - Model Estimation
+- Review
 - The General Linear Model
+- Iterative estimation
+- Ordinary-Least-Squares
+- [Interactive Linear Regression Explorer](https://mlu-explain.github.io/linear-regression/) 
 ```
 
 ```{topic} Wed Feb 5th
