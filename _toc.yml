@@ -75,5 +75,3 @@ parts:
       sections:
       - file: lectures/wk6/01_models
       - file: lectures/wk6/02_models
-      - file: lectures/wk6/03_models
-      - file: lectures/wk6/04_models
