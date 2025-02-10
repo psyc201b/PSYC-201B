@@ -57,6 +57,8 @@ parts:
   numbered: false
   chapters:
     - file: lectures/wk4/overview
+      sections:
+      - file: lectures/wk4/01_relationships
     - file: labs/4/overview
 - caption: Week 5
   numbered: false
@@ -66,3 +68,12 @@ parts:
       - file: lectures/wk5/1
       - file: lectures/wk5/2
       - file: lectures/wk5/3
+- caption: Week 6
+  numbered: false
+  chapters:
+    - file: lectures/wk6/overview
+      sections:
+      - file: lectures/wk6/01_models
+      - file: lectures/wk6/02_models
+      - file: lectures/wk6/03_models
+      - file: lectures/wk6/04_models
