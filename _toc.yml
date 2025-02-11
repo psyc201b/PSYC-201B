@@ -10,6 +10,7 @@ parts:
   - file: pages/syllabus
   - file: pages/schedule
   - file: pages/github_classroom
+  - file: pages/topics
 - caption: Computing Resources
   numbered: false
   chapters:
@@ -48,11 +49,11 @@ parts:
     - file: lectures/wk3/overview
     - file: labs/3/overview
       sections:
-      - file: labs/3/01_polars
+      - file: labs/3/01_polars-solutions
       - file: labs/3/02_new_eda_seaborn
-      - file: labs/3/02_seaborn
+      - file: labs/3/Appendix_01_more_seaborn_examples
       - file: labs/3/04_permutation_comparison
-      - file: labs/3/03_challenge
+      - file: labs/3/03_challenge-solutions
 - caption: Week 4
   numbered: false
   chapters:
@@ -75,3 +76,8 @@ parts:
       sections:
       - file: lectures/wk6/01_models
       - file: lectures/wk6/02_models
+- caption: Homework Assignments
+  numbered: false
+  chapters:
+    - file: hws/1/HW
+    - file: hws/2/HW
