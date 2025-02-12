@@ -15,10 +15,10 @@ Due: **Mon, Feb 24th** (by Midnight)
 - Multiple regression with `statsmodels`
 ```
 
-```{topic} Wednesday Feb 12th  
-- Categorical predictors with 2 levels
-- Categorical predictors with 2+ levels
-- Categorical and continuous predictors
+```{topic} [Wednesday Feb 12th]()  
+- Regression review
+- Analytic parameter uncertainty and inference
+- Resampled uncertainty and inference
 ```
 
 ```{topic} Readings
@@ -32,4 +32,5 @@ Due: **Mon, Feb 24th** (by Midnight)
   - <a href="/pdfs/ROS_Chap6.pdf"/>Chapter 6: Regression Background</a>  
   - <a href="/pdfs/ROS_Chap8.pdf"/>Chapter 8: Fitting Regression Models</a>  
   - <a href="/pdfs/ROS_Quick_Tips.pdf"/>10 quick tips to improve your regression modeling</a>  
+- [The Truth about Linear Regression](/assets/pdfs/TALR_23.pdf)
 ```

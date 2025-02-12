@@ -76,8 +76,9 @@ parts:
       sections:
       - file: lectures/wk6/01_models
       - file: lectures/wk6/02_models
-- caption: Homework Assignments
-  numbered: false
-  chapters:
-    - file: hws/1/HW
-    - file: hws/2/HW
+      - file: lectures/wk6/03
+# - caption: Homework Assignments
+#   numbered: false
+#   chapters:
+#     - file: hws/1/HW
+#     - file: hws/2/HW
