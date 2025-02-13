@@ -75,8 +75,10 @@ parts:
     - file: lectures/wk6/overview
       sections:
       - file: lectures/wk6/01_models
-      - file: lectures/wk6/02_models
+      - file: lectures/wk6/02_models_solutions
+      - file: lectures/wk6/03_models_solutions
       - file: lectures/wk6/03
+      - file: lectures/wk6/Explainers
 # - caption: Homework Assignments
 #   numbered: false
 #   chapters:
