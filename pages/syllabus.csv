@@ -16,31 +16,32 @@ Wk,Topic,Date,Class/Lab
 5,"General Linear Model",Mon Feb 3rd,"Intro to Models & Model Comparison"
 ,,Tues Feb 4th,Model Estimation & OLS
 ,,Wed Feb 5th,"Model Assumptions & Evaluation"
-6,GLM II,Mon Feb 10th,"Parameter Inference & *Lab - statsmodels*  
+6,GLM II,Mon Feb 10th,"*Lab - GLM & OLS in statsmodels*  
 **HW 2 due @ midnight**"
-,,Tues Feb 11th,"*Lab - HW 2 Review*  "
-,,Wed Feb 12th,"Interactions & multi-collinearity  
+,,Tues Feb 11th,"*Lab - HW 2 Review & Univariate regression in statsmodels*  "
+,,Wed Feb 12th,"Parameter Inference & Multiple regression in statsmodels"
+7,GLM III,Mon Feb 17th,"NO CLASS - Presidents' Day  
 **HW 3 available @ midnight**"
-7,GLM III,Mon Feb 17th,"NO CLASS - Presidents' day  "
-,,Tues Feb 18th,"Design Matrices & Categorical variables"
-,,Wed Feb 19th,ANOVA & other tests
-8,Disentangling dependence among predictors,Mon Feb 24th,"Dimensionality reduction, PCA, FA  
+,,Tues Feb 18th,"Review: Interactions & multi-collinearity + Categorical variables (2 levels)"
+,,Wed Feb 19th,"Categorical variables (3+ levels), coding schemes & ANOVA"
+8,Disentangling dependence among predictors,Mon Feb 24th,"Review: Interpreting categorical variables & linear/post-hoc tests  
 **HW 3 due @ midnight**"
-,,Tues Feb 25th,*Lab - HW 3 Review*
-,,Wed Feb 26th,"*Lab - sklearn, cross-validation, decomposition*  
-**HW 4 available @ midnight**"
-9,Dependence among outcomes,Mon Mar 3rd,"Eshin Away - In class office hours w/ TAs"
-,,Tues Mar 4th,"Non-independent data: Traditions (2-stage, sandwhich, ANOVA-rm, LMMs)"
-,,Wed Mar 5th,"*Lab - pymer4, LMMs*"
-10,Dependence among outcomes II,Mon Mar 10th,"*Lab - HW 4 Review*  
-**HW 4 due Sunday @ midnight**"
-,,Tues Mar 11th,"LMMs (cont'd)  
-**HW 5 available @ midnight**"
-,,Wed Mar 12th,"LMMs (cont'd) "
-11,Final,Mon Mar 17th,"*Lab - HW 5 Review*  
-**HW 5 due Sunday @ midnight**"
-,,Tues Mar 18th,"TBD  
-**Final available @ midnight**  
-**Final due March 22 @ midnight**"
-,,Wed Mar 18th,"Summary & wrap-up  
+,,Tues Feb 25th,"HW 3 Review & Handling Violated Assumptions  
+**HW 3 due before class**
 "
+,,Wed Feb 26th,"Linear Mixed Models (LMMs) I"
+9,Dependence among outcomes,Mon Mar 3rd,"*Lab - pymer4, LMMs*"
+,,Tues Mar 4th,"*Lab - LMMs II*"
+,,Wed Mar 5th,"LMMs II"
+10,Dependence among outcomes II,Mon Mar 10th,"GLMs/GLMMs"
+,,Tues Mar 11th,"HW 4 Review & FLEX  
+**HW 4 due before class**"
+,,Wed Mar 12th,"FLEX  
+**Final project proposal due**
+"
+11,Final,Mon Mar 17th,"*Lab - HW 5 Review*  
+**HW 5 due before class**"
+,,Tues Mar 18th,"FLEX"
+,,Wed Mar 19th,"Summary & wrap-up  
+"
+,,Thurs Mar 20th,**Final Projects due @ 5pm**  

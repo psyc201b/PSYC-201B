@@ -79,6 +79,12 @@ parts:
       - file: lectures/wk6/03_models_solutions
       - file: lectures/wk6/03
       - file: lectures/wk6/Explainers
+- caption: Week 7
+  numbered: false
+  chapters:
+    - file: lectures/wk7/overview
+      sections:
+      - file: lectures/wk7/1
 # - caption: Homework Assignments
 #   numbered: false
 #   chapters:
