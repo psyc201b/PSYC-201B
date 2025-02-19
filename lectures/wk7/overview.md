@@ -5,14 +5,22 @@ Due: **Tues, Feb 25th** (by Midnight)
 ```
 
 ## Weekly Plan: Categorical Predictors
-```{topic} [📚 Tuesday Feb 18th](https://classroom.github.com/a/Xfxgaqdi) 
-- Update github assignment from last week
+```{topic} [Tuesday Feb 18th](/lectures/wk7/1.md) 
+- Update [📚 github assignment](https://classroom.github.com/a/Xfxgaqdi) from last week to get notebooks `04_models` and `05_models`
 - Multiple regression with `statsmodels`
 ```
 
-```{topic} Wednesday Feb 19th
-- Multi-collinearity
+```{topic} [Wednesday Feb 18th](/lectures/wk7/2.md) 
+- Update [📚 github assignment](https://classroom.github.com/a/Xfxgaqdi) from last week to get notebooks `06_models` and `07_models`
+- Multicollinearity
 - 3+ level categorical predictors
+```
+
+```{topic} Resources (new)
+- [Vanhove, J. (2021). Collinearity isn’t a disease that needs curing. Meta-Psychology, 5.](https://paperpile.com/shared/sM2u33xdnTMGoFTl59avK1Q)
+- [Coding Systems for Categorical Variables](https://stats.oarc.ucla.edu/spss/faq/coding-systems-for-categorical-variables-in-regression-analysis-2/#DEVIATION%20EFFECT%20CODING) *conceptual overview, but examples are in R*
+- [Contrasts in StatsModels](https://www.statsmodels.org/stable/examples/notebooks/generated/contrasts.html) *Shorter Python version of the guide above*
+- [How to use different coding schemes in formulas](https://patsy.readthedocs.io/en/latest/API-reference.html#categorical-coding-ref)
 ```
 
 ```{topic} Readings (from last week)
