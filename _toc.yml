@@ -85,6 +85,7 @@ parts:
     - file: lectures/wk7/overview
       sections:
       - file: lectures/wk7/1
+      - file: lectures/wk7/2
 # - caption: Homework Assignments
 #   numbered: false
 #   chapters:
