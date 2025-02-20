@@ -1,7 +1,7 @@
 # Overview
 ```{admonition} HW 3
-Available: **Wed Feb 19th** (by Midnight)  
-Due: **Tues, Feb 25th** (by Midnight)
+[📚 **HW Available Now**](https://classroom.github.com/a/n5i7Z8uo)  
+Due: **Tues, Feb 25th (by 4pm)**   
 ```
 
 ## Weekly Plan: Categorical Predictors
@@ -12,7 +12,7 @@ Due: **Tues, Feb 25th** (by Midnight)
 
 ```{topic} [Wednesday Feb 18th](/lectures/wk7/2.md) 
 - Update [📚 github assignment](https://classroom.github.com/a/Xfxgaqdi) from last week to get notebooks `06_models` and `07_models`
-- Multicollinearity
+- Multi-collinearity
 - 3+ level categorical predictors
 ```
 
