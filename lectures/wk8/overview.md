@@ -6,6 +6,7 @@ Due: **Tues, Feb 25th (by 4pm)**
 
 ## Weekly Plan: Multiple Categorical Predictors & ANOVA
 ```{topic} [Monday Feb 24th](/lectures/wk8/1.md) 
+- [Final Project Proposal Template](https://tinyurl.com/201b-proposal)
 - We'll once again be updating [📚 github assignment](https://classroom.github.com/a/Xfxgaqdi) from last week to get notebooks:
   - `06_models_solutions` 
   - `07_models_solutions` 
