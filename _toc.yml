@@ -74,10 +74,11 @@ parts:
   chapters:
     - file: lectures/wk6/overview
       sections:
+      - file: lectures/wk6/03
       - file: lectures/wk6/01_models
       - file: lectures/wk6/02_models_solutions
       - file: lectures/wk6/03_models_solutions
-      - file: lectures/wk6/03
+      - file: lectures/wk6/04_models_solutions
       - file: lectures/wk6/Explainers
 - caption: Week 7
   numbered: false
@@ -86,7 +87,6 @@ parts:
       sections:
       - file: lectures/wk7/1
       - file: lectures/wk7/2
-      - file: lectures/wk6/04_models_solutions
       - file: lectures/wk6/05_models_solutions
       - file: lectures/wk6/06_models_solutions
       - file: lectures/wk6/07_models_solutions
@@ -97,7 +97,7 @@ parts:
       sections:
       - file: lectures/wk8/1
       # - file: lectures/wk8/2
-      # - file: lectures/wk6/08_models_solutions
+      - file: lectures/wk6/08_models_solutions
       # - file: lectures/wk6/09_models_solutions
 # - caption: Week 9
 #   numbered: false

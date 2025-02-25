@@ -11,37 +11,36 @@ Wk,Topic,Date,Class/Lab
 4,"[Review & Exploratory Data Analysis](/lectures/wk4/overview)",Mon Jan 27th,"[*Lab cont'd - polars, seaborn, EDA*](/labs/3/overview)  
 **HW 1 due @ midnight**"
 ,,Tues Jan 28th,"*Lab - HW 1 Review*"
-,,Wed Jan 29th,"Correlation, covariance & thinking in lines  
+,,Wed Jan 29th,"[Relationships & Similarity](/lectures/wk4/01_relationships)  
 **HW 2 Available @ midnight**"
-5,"General Linear Model",Mon Feb 3rd,"Intro to Models & Model Comparison"
-,,Tues Feb 4th,Model Estimation & OLS
-,,Wed Feb 5th,"Model Assumptions & Evaluation"
-6,GLM II,Mon Feb 10th,"*Lab - GLM & OLS in statsmodels*  
+5,"General Linear Model",Mon Feb 3rd,"[Intro to Models & Model Comparison](/lectures/wk5/1)"
+,,Tues Feb 4th,[Model Estimation & OLS](/lectures/wk5/2)
+,,Wed Feb 5th,"[Model Assumptions & Evaluation](/lectures/wk5/3)"
+6,GLM II,Mon Feb 10th,"[*Lab - GLM & OLS in statsmodels*](/lectures/wk6/01_models_solutions)  
 **HW 2 due @ midnight**"
-,,Tues Feb 11th,"*Lab - HW 2 Review & Univariate regression in statsmodels*  "
-,,Wed Feb 12th,"Parameter Inference & Multiple regression in statsmodels"
-7,GLM III,Mon Feb 17th,"NO CLASS - Presidents' Day  
+,,Tues Feb 11th,"*Lab - HW 2 Review & [Univariate regression in statsmodels](/lectures/wk6/02_models_solutions)*  "
+,,Wed Feb 12th,"[Parameter Inference](/lectures/wk6/03) & [Multiple regression in statsmodels](/lectures/wk6/03_models_solutions)"
+7,Categorical Predictors,Mon Feb 17th,"NO CLASS - Presidents' Day  
 **HW 3 available @ midnight**"
-,,Tues Feb 18th,"Review: Interactions & multi-collinearity + Categorical variables (2 levels)"
-,,Wed Feb 19th,"Categorical variables (3+ levels), coding schemes & ANOVA"
-8,Disentangling dependence among predictors,Mon Feb 24th,"Review: Interpreting categorical variables & linear/post-hoc tests  
-**HW 3 due @ midnight**"
-,,Tues Feb 25th,"HW 3 Review & Handling Violated Assumptions  
+,,Tues Feb 18th,"Categorical variables (2 levels) & Categorical x Continuous Interactions"
+,,Wed Feb 19th,"Categorical variables (3+ levels), coding schemes & One-Way ANOVA"
+8,Categorical Predictors II,Mon Feb 24th,"Multiple Categorical variables & Two-Way ANOVA"
+,,Tues Feb 25th,"*Lab - HW 3 Review* & Categorical Comparisons/Contrasts  
 **HW 3 due before class**
 "
-,,Wed Feb 26th,"Linear Mixed Models (LMMs) I"
-9,Dependence among outcomes,Mon Mar 3rd,"*Lab - pymer4, LMMs*"
-,,Tues Mar 4th,"*Lab - LMMs II*"
-,,Wed Mar 5th,"LMMs II"
-10,Dependence among outcomes II,Mon Mar 10th,"GLMs/GLMMs"
-,,Tues Mar 11th,"HW 4 Review & FLEX  
-**HW 4 due before class**"
-,,Wed Mar 12th,"FLEX  
+,,Wed Feb 26th,"Violated Assumptions & Generalized Linear Models Intro (tentative)"
+9,(G)LM & Prediction,Mon Mar 3rd,"TA Session (*Eshin away*)"
+,,Tues Mar 4th,"(G)LM (Logistic Regression) & Prediction"
+,,Wed Mar 5th,"(G)LM, Cross-Validation & Model Comparison II  "
+10,LMMs,Mon Mar 10th,"Linear Mixed Effects Models (LMMs)"
+,,Tues Mar 11th,"LMMs II   
+**HW 4 available**"
+,,Wed Mar 12th,"LMMs III    
 **Final project proposal due**
 "
-11,Final,Mon Mar 17th,"*Lab - HW 5 Review*  
-**HW 5 due before class**"
-,,Tues Mar 18th,"FLEX"
+11,LMMs II & Wrap-up,Mon Mar 17th,"LMMs IV"
+,,Tues Mar 18th,"*Lab - HW 4 Review* & Simulation, Power, & Inference   
+**HW 4 due before class**"
 ,,Wed Mar 19th,"Summary & wrap-up  
 "
 ,,Thurs Mar 20th,**Final Projects due @ 5pm**  
