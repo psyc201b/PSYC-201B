@@ -47,10 +47,14 @@ assets/pdfs/*
 !assets/pdfs/DAAMCA_Ch2.pdf
 !assets/pdfs/DAAMCA_Ch4.pdf
 !assets/pdfs/DAAMCA_Ch5.pdf
+!assets/pdfs/DAAMCA_Ch8.pdf
+!assets/pdfs/DAAMCA_Ch9.pdf
+!assets/pdfs/DAAMCA_Ch10.pdf
 !assets/pdfs/ROS_Chap3_Math_Prob_Basics.pdf
 !assets/pdfs/ROS_Chap4_Stat_Inference.pdf
 !assets/pdfs/ROS_Chap6.pdf
 !assets/pdfs/ROS_Chap8.pdf
+!assets/pdfs/ROS_Chap10.pdf
 !assets/pdfs/ROS_Quick_Tips.pdf
 !assets/pdfs/TALR_23.pdf
 
