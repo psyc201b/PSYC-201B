@@ -96,7 +96,7 @@ parts:
     - file: lectures/wk8/overview
       sections:
       - file: lectures/wk8/1
-      # - file: lectures/wk8/2
+      - file: lectures/wk8/2
       - file: lectures/wk6/08_models_solutions
       # - file: lectures/wk6/09_models_solutions
 # - caption: Week 9

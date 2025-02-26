@@ -13,6 +13,11 @@ Due: **Tues, Feb 25th (by 4pm)**
   - `08_models`
 ```
 
+```{topic} [Wednesday Feb 26th](/lectures/wk8/2.md) 
+- [Mini-HW Instructions](https://tinyurl.com/mini-hw)
+- [Struggle Survey](https://tinyurl.com/struggle-survey)
+```
+
 <!-- ```{topic} Tuesday Feb 25th 
 - Update your [📚 HW 3 repo]() to get the solutions notebook that we'll walk through together
 - Slides: Violations
