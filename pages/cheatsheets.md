@@ -9,6 +9,16 @@ When you're working in Python it can be *super* helpful to regularly refer to th
 - [Git & Github cheatsheet](/pages/git)
 - [More Git commands](https://education.github.com/git-cheat-sheet-education.pdf)
 
+## Coding Notebooks 
+- [Python Notebooks in VSCode](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
+- [Python Notebooks in JupyterLab](https://jupyterlab.readthedocs.io/en/latest/user/notebook.html)
+- To show multiple outputs from a single cell add this to the top of your notebook:
+  - `%config InteractiveShell.ast_node_interactivity = "all" `
+  - Other options include `last`, `last_expr` (default), `last_expr_or_assign`, `none`
+- To produce higher-resolution plots add this to the top of your notebook:
+  - `%config InlineBackend.figure_formats = 'retina'`
+
+
 ## Conda Environments
 - [Conda overview and basic commands](https://nbis-reproducible-research.readthedocs.io/en/course_2104/conda/)
 - [Conda and sharing Python environments for reproducible research](https://rse.shef.ac.uk/conda-environments-for-effective-and-reproducible-research/04-sharing-environments/index.html)
