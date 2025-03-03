@@ -21,6 +21,7 @@ Due: **Wed, Mar 12th**
 ```
 
 ```{topic} Readings
+- [Understanding Statistical Power](/assets/pdfs/norton_strube_power.pdf)
 - [Moving to a world beyond p < 0.05](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913#d1e143)
 - Improving your Statistical Inferences:
   - [Chapter 2: Error Control](https://lakens.github.io/statistical_inferences/02-errorcontrol.html)
