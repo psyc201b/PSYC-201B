@@ -4,6 +4,20 @@
 When you're working in Python it can be *super* helpful to regularly refer to these resources. Remember that you can always use any `API reference` link below to get a comprehensive list of *all* the functions and methods in a library - a bit nicer than only relying on `?` in your notebook.
 ```
 
+## Course Packages
+Throughout the course we've been making use of the following Python libraries in case you want to create a reproducible environment for yourself:
+
+- [`numpy`](https://numpy.org/doc/stable/index.html)
+- [`scipy`](https://scipy.org/) 
+- [`matplotlib`](https://matplotlib.org/)
+- [`seaborn`](https://seaborn.pydata.org/)
+- [`polars`](https://docs.pola.rs/user-guide/getting-started/)
+- [`statsmodels`](https://www.statsmodels.org/stable/user-guide.html)
+- [`marginaleffects`](https://marginaleffects.com/)
+- [`pymer4`](https://eshinjolly.com/pymer4/)
+- [`ipywidgets`](https://ipywidgets.readthedocs.io/en/stable/) - *optional just for interactive demos*
+
+
 ## Computing Basics
 - [Terminal commands cheatsheet](https://www.git-tower.com/blog/media/pages/posts/command-line-cheat-sheet/64337e6bae-1733170994/command-line-cheat-sheet-large01.avif)
 - [Git & Github cheatsheet](/pages/git)
@@ -60,6 +74,21 @@ When you're working in Python it can be *super* helpful to regularly refer to th
 - [Seaborn API](https://seaborn.pydata.org/api.html)
 - [Seaborn cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Seaborn_Cheat_Sheet.pdf)
 
+## Statsmodels - regression library
+- [Using formulas in statsmodels](https://www.statsmodels.org/stable/example_formulas.html)
+- [OLS model reference](https://www.statsmodels.org/stable/generated/statsmodels.regression.linear_model.OLS.html#statsmodels.regression.linear_model.OLS)
+- [Regression results reference](https://www.statsmodels.org/stable/generated/statsmodels.regression.linear_model.RegressionResults.html#statsmodels.regression.linear_model.RegressionResults)
+- [Post-hoc pairwise tests](https://www.statsmodels.org/stable/dev/generated/statsmodels.base.model.GenericLikelihoodModelResults.t_test_pairwise.html#statsmodels.base.model.GenericLikelihoodModelResults.t_test_pairwise)
+- [`anova_lm` for model comparison](https://www.statsmodels.org/stable/generated/statsmodels.stats.anova.anova_lm.html#statsmodels.stats.anova.anova_lm)
+
+## MarginalEffects - like `emmeans` in R
+- [Predictions & Average Predictions](https://marginaleffects.com/man/python/predictions.html)
+
+## Pymer4 - multi-level/linear-mixed-models
+- [Pymer4 Usage Guide](https://eshinjolly.com/pymer4/auto_examples/index.html)
+- [Repeated Measures Overview](https://eshinjolly.com/2019/02/18/rep_measures/)
+- [`.fit()` method reference](https://eshinjolly.com/pymer4/api.html#pymer4.models.Lmer.fit)
+- [`.post_hoc()` method reference](https://eshinjolly.com/pymer4/api.html#pymer4.models.Lmer.post_hoc)
 
 <!-- ## Advanced stats + machine learning
 - [Scikit-learn cheatsheet](https://media.datacamp.com/legacy/image/upload/v1676302389/Marketing/Blog/Scikit-Learn_Cheat_Sheet.pdf)
