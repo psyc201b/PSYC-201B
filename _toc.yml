@@ -103,8 +103,8 @@ parts:
   numbered: false
   chapters:
     - file: lectures/wk9/overview
-#       sections:
-#       - file: lectures/wk9/1
+      sections:
+      - file: lectures/wk9/1
 #       - file: lectures/wk9/2
 # - caption: Week 10
 #   numbered: false
