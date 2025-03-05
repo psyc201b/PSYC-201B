@@ -7,13 +7,14 @@ Due: **Wed, Mar 12th**
 ## Weekly Plan: Review, Power, & Inference
 
 ```{topic} Monday March 2nd (*Eshin away*)
-- Review session with TAs
-  - [Last week's struggle survey](https://tinyurl.com/struggle-survey)
+- [📚 Review session with TAs](https://classroom.github.com/a/9Em8Vswu)
+- [Last week's struggle survey](https://tinyurl.com/struggle-survey)
 ```
 
 ```{topic} Tuesday March 3rd (Lab)
-- Statistical Power & Effect sizes (slides)
-- Power & Simulation (notebook)
+- [Review Slides](/lectures/wk9/1.md)
+- [📚 Lab Notebooks](https://classroom.github.com/a/mDhkuy6B)
+  - **Due: Monday March 10th**
 ```
 
 ```{topic} Wednesday March 4th
