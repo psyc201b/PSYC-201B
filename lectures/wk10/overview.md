@@ -1,18 +1,28 @@
-# Statistical dependence among outcomes II
+# Overview
+```{admonition} Reminder
+Final Project Proposal Due: **Wed, Mar 12th**   
+HW 4 Due: **Mon, March 17th (by Midnight)**  
+Final Project Due: **Thurs, Mar 20th**   
+```
 
-```{topic} Learning Objectives
-- goal 1
-- goal 2
-- goal 3
+## Weekly Plan: Linear Mixed Models
+
+```{topic} Monday March 10th
+- Introduction to LMMs
+- **HW 4 made available**
+```
+
+```{topic} Tuesday March 11th
+- LMMs II
+```
+
+```{topic} Wednesday March 12th
+- LMMs III
+- Whirlwind of topics we didn't cover
+- Wrap Up
 ```
 
 ```{topic} Readings
-- reading 1
-- reading 2
-- reading 3
-```
-
-```{topic} Resources
-- one
-- two
+- Data Analysis: A Model Comparison Approach
+  - <a href="/pdfs/DAAMCA_Ch12.pdf"/>Chapter 12: Incorporating Continuous Predictors with Non-independent Data</a>  
 ```
