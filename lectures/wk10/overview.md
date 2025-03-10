@@ -1,9 +1,9 @@
 # Overview
 ```{admonition} Reminder
 Final Project Proposal Due: **Wed, Mar 12th**   
-[📚 HW 4 Due](www.google.com): **Mon, March 17th (by Midnight)**  
+HW 4 Due (available by midnight): **Mon, March 17th (by Midnight)**  
 [📚 Final Project Due](https://classroom.github.com/a/9Gx3ocCf): **Thurs, Mar 20th**   
-[Final Project Submission Instructions](https://docs.google.com/document/d/1KPcCeumDPltzvwgrSeKg_Oq-c_hWr4Wypp2NOjB4Je4/edit?tab=t.0)  
+[Final Project Submission Instructions](https://docs.google.com/document/d/1KPcCeumDPltzvwgrSeKg_Oq-c_hWr4Wypp2NOjB4Je4/edit?usp=sharing)  
 ```
 
 ## Weekly Plan: Linear Mixed Models
@@ -11,7 +11,7 @@ Final Project Proposal Due: **Wed, Mar 12th**
 ```{topic} [Monday March 10th](/lectures/wk10/1.md)
 - Final Project submission overview
 - Introduction to Linear Mixed Models
-- *HW 4 made available*
+- [📚 Lab Notebook](https://classroom.github.com/a/cHaeZZf7)
 ```
 
 ```{topic} [Tuesday March 11th](/lectures/wk10/2.md)
