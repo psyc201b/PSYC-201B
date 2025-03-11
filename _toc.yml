@@ -112,8 +112,8 @@ parts:
     - file: lectures/wk10/overview
       sections:
       - file: lectures/wk10/1
-      - file: lectures/wk10/2
-      - file: lectures/wk10/3
+      # - file: lectures/wk10/2
+      # - file: lectures/wk10/3
 # - caption: Homework Assignments
 #   numbered: false
 #   chapters:
