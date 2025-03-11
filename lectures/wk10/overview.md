@@ -24,7 +24,8 @@ Final Project Proposal Due: **Wed, Mar 12th**
 - Whirlwind of important topics we didn't cover
 - Summary & Wrap Up
 ```
-```{topic} LMM Resources
+
+## Lots of LMM Resources
 - [Hierarchical Models Viz](http://mfviz.com/hierarchical-models/)
 - [Mixed Models with R](https://m-clark.github.io/mixed-models-with-R/)
 - [Introducing linear mixed-effects models](https://psyteachr.github.io/stat-models-v1/introducing-linear-mixed-effects-models.html)
@@ -35,15 +36,13 @@ Final Project Proposal Due: **Wed, Mar 12th**
 - [Lme4 Random Effects Cheatsheet](https://paulrjohnson.net/blog/2022-11-01-multilevel-model-r-cheatsheet/) 
 - [What is the upside of treating a factor as random?](https://stats.stackexchange.com/a/113636) (*Great answer by Jake Westfall, another well-respected developer of LMM tools and techniques*)
 - [Why I don't use the term "fixed and random effects" by Andrew Gelman](https://statmodeling.stat.columbia.edu/2005/01/25/why_i_dont_use/)
-
-```
-
-```{topic} Readings
-- Data Analysis: A Model Comparison Approach
-  - <a href="/pdfs/DAAMCA_Ch12.pdf"/>Chapter 12: Incorporating Continuous Predictors with Non-independent Data</a>  
-- Pivotal Papers
-  - <a href="/pdfs/Barr_2013.pdf"/>Barr, D. J., Levy, R., Scheepers, C., & Tily, H. J. (2013). Random effects structure for confirmatory hypothesis testing: Keep it maximal. Journal of Memory and Language, 68(3), 255–278. </a>
-  - <a href="/pdfs/Barr_2008.pdf"/>Baayen, R. H., Davidson, D. J., & Bates, D. M. (2008). Mixed-effects modeling with crossed random effects for subjects and items. Journal of Memory and Language, 59(4), 390–412.</a>
-  - Clark, H. H. (1973). The language-as-fixed-effect fallacy: A critique of language statistics in psychological research. Journal of Verbal Learning and Verbal Behavior, 12(4), 335–359.
-
+- [Centering in LMMs](https://web.pdx.edu/~newsomj/mlrclass/ho_centering.pdf)
+- [How to Center in LMMs](https://philippmasur.de/2018/05/23/how-to-center-in-multilevel-models/)
+- Readings & Papers
+  - Data Analysis: A Model Comparison Approach
+    - <a href="/pdfs/DAAMCA_Ch12.pdf"/>Chapter 12: Incorporating Continuous Predictors with Non-independent Data</a>  
+  - Pivotal Papers
+    - <a href="/pdfs/Barr_2013.pdf"/>Barr, D. J., Levy, R., Scheepers, C., & Tily, H. J. (2013). Random effects structure for confirmatory hypothesis testing: Keep it maximal. Journal of Memory and Language, 68(3), 255–278. </a>
+    - <a href="/pdfs/Barr_2008.pdf"/>Baayen, R. H., Davidson, D. J., & Bates, D. M. (2008). Mixed-effects modeling with crossed random effects for subjects and items. Journal of Memory and Language, 59(4), 390–412.</a>
+    - Clark, H. H. (1973). The language-as-fixed-effect fallacy: A critique of language statistics in psychological research. Journal of Verbal Learning and Verbal Behavior, 12(4), 335–359.
 ```
