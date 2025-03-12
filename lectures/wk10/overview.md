@@ -6,23 +6,21 @@ Final Project Proposal Due: **Wed, Mar 12th**
 [Final Project Submission Instructions](https://docs.google.com/document/d/1KPcCeumDPltzvwgrSeKg_Oq-c_hWr4Wypp2NOjB4Je4/edit?usp=sharing)  
 ```
 
-## Weekly Plan: Linear Mixed Models
+## Weekly Plan: Linear Mixed Models & Course Summary
 
 ```{topic} [Monday March 10th](/lectures/wk10/1.md)
 - Final Project submission overview
-- Introduction to Linear Mixed Models
+- [Introduction to Linear Mixed Models](/lectures/wk10/01_lmms)
 - [📚 Lab Notebook](https://classroom.github.com/a/cHaeZZf7)
 ```
 
-```{topic} [Tuesday March 11th](/lectures/wk10/2.md)
-- LMMs II
+```{topic} Tuesday March 11th
+- [LMMs II](/lectures/wk10/02_lmms)
 - [📚 Update and continue with yesterday's Lab Notebook](https://classroom.github.com/a/cHaeZZf7)
 ```
 
-```{topic} [Wednesday March 12th](/lectures/wk10/3.md)
-- LMMs III
-- Whirlwind of important topics we didn't cover
-- Summary & Wrap Up
+```{topic} [Wednesday March 12th](/lectures/wk10/2.md)
+- Course Summary & Wrap Up
 ```
 
 ## Lots of LMM Resources
