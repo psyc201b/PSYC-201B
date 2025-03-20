@@ -105,6 +105,7 @@ parts:
     - file: lectures/wk9/overview
       sections:
       - file: lectures/wk9/1
+      - file: lectures/wk9/02_Power-solutions
       - file: lectures/wk9/Transformations_and_Assumptions
 - caption: Week 10
   numbered: false
@@ -112,8 +113,8 @@ parts:
     - file: lectures/wk10/overview
       sections:
       - file: lectures/wk10/1
-      - file: lectures/wk10/01_lmms
-      - file: lectures/wk10/02_lmms
+      - file: lectures/wk10/01_lmms_solutions
+      - file: lectures/wk10/02_lmms_solutions
       - file: lectures/wk10/2
 # - caption: Homework Assignments
 #   numbered: false
